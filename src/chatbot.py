@@ -24,7 +24,14 @@ class AnalyticsChatbot:
         elif any(term in q for term in ["diversidade", "bolha", "repetição", "repeticao"]):
             answer = f"A diversidade média de gêneros está em {m['genre_diversity']:.1%}. O re-ranking MMR equilibra relevância e variedade."
             next_step = "Testar lambdas entre 0,70 e 0,85 para encontrar o melhor equilíbrio em produção."
-        elif any(term in q for term in ["usuário", "usuario", "base", "volume"]):
+        elif any(term in q for term in [
+    "tamanho da base",
+    "volume",
+    "quantos usuários",
+    "quantos usuarios",
+    "quantos títulos",
+    "quantos titulos",
+]):
             answer = f"A base demonstra {k['users']:,} usuários, {k['titles']:,} títulos e {k['interactions']:,} interações sintéticas."
             next_step = "Substituir os CSVs sintéticos por eventos anonimizados mantendo o mesmo contrato de dados."
         elif any(term in q for term in ["cold", "novo", "sem histórico", "sem historico"]):
