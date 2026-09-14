@@ -1,0 +1,45 @@
+name: Retrain, validate and publish dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * 1"
+  push:
+    branches: [main]
+    paths: ["src/**", "data/**", "dashboard/**", "tests/**", "requirements.txt"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  quality-and-retrain:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m src.generate_data --output data/raw
+      - run: python scripts/validate_data.py
+      - run: python -m src.pipeline --data data/raw --artifacts artifacts --dashboard dashboard
+      - run: python -m pytest -q
+      - name: Fail when governance guardrail is breached
+        run: python scripts/check_guardrails.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: quality-and-retrain
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
