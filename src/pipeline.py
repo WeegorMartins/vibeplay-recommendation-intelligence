@@ -67,7 +67,13 @@ def build_dashboard_data(users, catalog, interactions, metrics, sample_recs):
     region_events = interactions.merge(users[["user_id", "region"]], on="user_id").groupby("region").agg(
         interactions=("interaction_id", "size"), users=("user_id", "nunique"), avg_watch=("watch_pct", "mean")
     ).reset_index()
-    daily = interactions.assign(date=pd.to_datetime(interactions.event_ts).dt.date).groupby("date").size().tail(90)
+    daily_all = (
+        interactions
+        .assign(date=pd.to_datetime(interactions.event_ts).dt.date)
+        .groupby("date")
+        .size()
+    )
+    daily = daily_all.iloc[:-1].tail(90)
     return {
         "generated_at": pd.Timestamp.utcnow().isoformat(),
         "kpis": {
