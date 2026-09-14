@@ -1,0 +1,801 @@
+user_id,region,age_group,plan,main_device,favorite_genres,tenure_months
+U0001,Sudeste,55+,Basic,Tablet,Crime|Romance|Aventura,45
+U0002,Sudeste,25-34,Basic,Smart TV,Comédia|Drama|Terror,8
+U0003,Norte,18-24,Basic,Smart TV,Família|Terror|Aventura,29
+U0004,Centro-Oeste,25-34,Standard,Desktop,Suspense|Romance|Ficção científica,40
+U0005,Sudeste,25-34,Basic,Smart TV,Documentário|Aventura|Comédia,26
+U0006,Sudeste,35-44,Standard,Smart TV,Ficção científica|Terror|Comédia,32
+U0007,Sudeste,55+,Standard,Tablet,Animação|Aventura|Família,43
+U0008,Sudeste,35-44,Basic,Smart TV,Documentário|Aventura|Família,43
+U0009,Sudeste,55+,Premium,Mobile,Suspense|Drama|Ficção científica,32
+U0010,Nordeste,25-34,Standard,Mobile,Família|Ficção científica|Romance,4
+U0011,Sudeste,25-34,Basic,Mobile,Drama|Ficção científica|Comédia,38
+U0012,Centro-Oeste,25-34,Basic,Mobile,Comédia|Drama|Crime,37
+U0013,Norte,45-54,Standard,Smart TV,Ação|Animação|Terror,15
+U0014,Sudeste,25-34,Premium,Desktop,Ação|Suspense|Ficção científica,8
+U0015,Sudeste,25-34,Standard,Desktop,Ficção científica|Crime|Aventura,7
+U0016,Sul,25-34,Premium,Smart TV,Família|Drama|Romance,14
+U0017,Sudeste,25-34,Basic,Smart TV,Crime|Animação|Suspense,36
+U0018,Nordeste,35-44,Premium,Mobile,Aventura|Ficção científica|Ação,46
+U0019,Sul,45-54,Basic,Smart TV,Ficção científica|Romance|Crime,8
+U0020,Sudeste,18-24,Basic,Desktop,Documentário|Crime|Aventura,20
+U0021,Centro-Oeste,35-44,Standard,Desktop,Ficção científica|Romance|Documentário,41
+U0022,Sudeste,18-24,Basic,Smart TV,Animação|Família|Comédia,5
+U0023,Sudeste,25-34,Standard,Desktop,Ficção científica|Família|Suspense,46
+U0024,Norte,25-34,Basic,Desktop,Documentário|Ação|Família,1
+U0025,Sudeste,35-44,Standard,Mobile,Drama|Suspense|Aventura,14
+U0026,Sudeste,35-44,Standard,Tablet,Terror|Crime|Comédia,2
+U0027,Sudeste,35-44,Standard,Smart TV,Crime|Animação|Romance,37
+U0028,Sudeste,45-54,Standard,Desktop,Terror|Aventura|Ficção científica,21
+U0029,Sudeste,25-34,Basic,Smart TV,Documentário|Animação|Drama,21
+U0030,Nordeste,35-44,Premium,Mobile,Documentário|Crime|Ação,27
+U0031,Sudeste,35-44,Standard,Mobile,Documentário|Terror|Comédia,15
+U0032,Sul,18-24,Standard,Smart TV,Documentário|Comédia|Ficção científica,37
+U0033,Sudeste,25-34,Basic,Mobile,Família|Animação|Documentário,21
+U0034,Sudeste,18-24,Basic,Mobile,Ação|Terror|Romance,39
+U0035,Norte,18-24,Standard,Mobile,Romance|Ficção científica|Documentário,32
+U0036,Nordeste,25-34,Standard,Mobile,Documentário|Romance|Família,33
+U0037,Nordeste,25-34,Premium,Smart TV,Comédia|Animação|Terror,48
+U0038,Sudeste,45-54,Premium,Smart TV,Comédia|Animação|Drama,25
+U0039,Sul,45-54,Standard,Smart TV,Suspense|Ação|Drama,15
+U0040,Nordeste,35-44,Standard,Tablet,Crime|Ação|Suspense,35
+U0041,Centro-Oeste,35-44,Premium,Mobile,Ação|Comédia|Terror,34
+U0042,Nordeste,55+,Basic,Mobile,Crime|Animação|Ficção científica,24
+U0043,Sudeste,25-34,Standard,Mobile,Comédia|Drama|Terror,17
+U0044,Sudeste,35-44,Standard,Mobile,Aventura|Romance|Drama,45
+U0045,Sudeste,35-44,Basic,Smart TV,Drama|Crime|Suspense,13
+U0046,Sudeste,55+,Basic,Smart TV,Família|Ficção científica|Terror,4
+U0047,Sudeste,45-54,Basic,Mobile,Comédia|Terror|Ficção científica,31
+U0048,Sudeste,18-24,Standard,Smart TV,Família|Ficção científica|Documentário,4
+U0049,Sudeste,35-44,Basic,Desktop,Drama|Animação|Comédia,37
+U0050,Sul,25-34,Basic,Smart TV,Família|Terror|Animação,41
+U0051,Sul,25-34,Basic,Mobile,Ação|Crime|Animação,35
+U0052,Sul,35-44,Premium,Smart TV,Família|Crime|Romance,12
+U0053,Sudeste,35-44,Premium,Mobile,Documentário|Ação|Família,46
+U0054,Sul,18-24,Premium,Tablet,Terror|Romance|Documentário,5
+U0055,Norte,25-34,Premium,Smart TV,Romance|Crime|Aventura,6
+U0056,Sudeste,35-44,Basic,Smart TV,Crime|Animação|Terror,15
+U0057,Centro-Oeste,18-24,Basic,Mobile,Família|Comédia|Romance,26
+U0058,Sudeste,45-54,Standard,Smart TV,Comédia|Aventura|Ficção científica,35
+U0059,Nordeste,25-34,Standard,Smart TV,Família|Aventura|Drama,14
+U0060,Sul,35-44,Standard,Mobile,Romance|Suspense|Ação,44
+U0061,Nordeste,18-24,Basic,Smart TV,Suspense|Comédia|Aventura,40
+U0062,Centro-Oeste,55+,Premium,Smart TV,Romance|Crime|Terror,12
+U0063,Sudeste,45-54,Basic,Mobile,Ficção científica|Ação|Crime,3
+U0064,Nordeste,25-34,Standard,Mobile,Comédia|Animação|Documentário,34
+U0065,Centro-Oeste,35-44,Premium,Desktop,Ação|Suspense|Crime,9
+U0066,Nordeste,45-54,Standard,Smart TV,Ação|Família|Crime,14
+U0067,Sudeste,18-24,Standard,Smart TV,Documentário|Aventura|Crime,38
+U0068,Sudeste,35-44,Standard,Mobile,Aventura|Comédia|Documentário,10
+U0069,Centro-Oeste,45-54,Premium,Desktop,Animação|Ficção científica|Terror,18
+U0070,Nordeste,25-34,Premium,Smart TV,Aventura|Animação|Crime,45
+U0071,Norte,55+,Standard,Mobile,Família|Drama|Documentário,33
+U0072,Sudeste,18-24,Standard,Mobile,Suspense|Drama|Ação,30
+U0073,Nordeste,55+,Premium,Smart TV,Crime|Documentário|Comédia,48
+U0074,Nordeste,55+,Standard,Smart TV,Drama|Família|Comédia,37
+U0075,Nordeste,18-24,Standard,Mobile,Crime|Comédia|Suspense,23
+U0076,Nordeste,25-34,Standard,Smart TV,Comédia|Documentário|Crime,32
+U0077,Sudeste,35-44,Basic,Smart TV,Família|Romance|Crime,26
+U0078,Nordeste,45-54,Standard,Mobile,Documentário|Aventura|Comédia,18
+U0079,Sul,18-24,Premium,Smart TV,Documentário|Crime|Família,47
+U0080,Sudeste,25-34,Basic,Smart TV,Terror|Aventura|Ficção científica,29
+U0081,Sudeste,45-54,Basic,Mobile,Documentário|Comédia|Família,36
+U0082,Centro-Oeste,25-34,Basic,Desktop,Aventura|Documentário|Crime,20
+U0083,Sudeste,35-44,Standard,Mobile,Aventura|Documentário|Terror,10
+U0084,Sudeste,35-44,Basic,Smart TV,Terror|Romance|Aventura,6
+U0085,Nordeste,55+,Standard,Smart TV,Documentário|Ação|Crime,39
+U0086,Norte,18-24,Basic,Tablet,Família|Romance|Ficção científica,26
+U0087,Nordeste,55+,Basic,Mobile,Romance|Animação|Crime,25
+U0088,Sudeste,35-44,Basic,Mobile,Suspense|Ação|Romance,6
+U0089,Sudeste,45-54,Basic,Smart TV,Romance|Animação|Suspense,38
+U0090,Sudeste,18-24,Premium,Smart TV,Aventura|Crime|Suspense,13
+U0091,Sudeste,35-44,Premium,Smart TV,Drama|Ação|Documentário,29
+U0092,Nordeste,45-54,Premium,Desktop,Crime|Drama|Romance,17
+U0093,Sudeste,45-54,Premium,Desktop,Drama|Comédia|Aventura,11
+U0094,Sudeste,18-24,Basic,Smart TV,Romance|Aventura|Drama,8
+U0095,Centro-Oeste,25-34,Premium,Mobile,Família|Documentário|Ação,40
+U0096,Sudeste,18-24,Standard,Desktop,Ação|Família|Ficção científica,5
+U0097,Sudeste,18-24,Premium,Desktop,Animação|Ação|Drama,1
+U0098,Sul,35-44,Standard,Mobile,Aventura|Comédia|Animação,15
+U0099,Sudeste,55+,Basic,Smart TV,Suspense|Romance|Drama,43
+U0100,Sudeste,35-44,Basic,Tablet,Documentário|Suspense|Animação,34
+U0101,Norte,18-24,Basic,Smart TV,Romance|Suspense|Drama,40
+U0102,Nordeste,25-34,Standard,Smart TV,Família|Romance|Terror,10
+U0103,Nordeste,25-34,Standard,Smart TV,Família|Comédia|Drama,47
+U0104,Nordeste,18-24,Premium,Mobile,Documentário|Crime|Comédia,6
+U0105,Sudeste,45-54,Basic,Smart TV,Ficção científica|Crime|Terror,2
+U0106,Nordeste,25-34,Standard,Mobile,Comédia|Ação|Ficção científica,23
+U0107,Sul,18-24,Standard,Tablet,Família|Suspense|Terror,22
+U0108,Sudeste,35-44,Basic,Mobile,Documentário|Suspense|Ação,14
+U0109,Sudeste,18-24,Basic,Tablet,Drama|Documentário|Ficção científica,9
+U0110,Sul,25-34,Standard,Desktop,Documentário|Crime|Aventura,16
+U0111,Sudeste,25-34,Standard,Desktop,Romance|Documentário|Aventura,18
+U0112,Sudeste,18-24,Basic,Mobile,Documentário|Romance|Terror,29
+U0113,Sudeste,35-44,Basic,Desktop,Ação|Drama|Suspense,18
+U0114,Sul,25-34,Basic,Mobile,Ação|Animação|Crime,12
+U0115,Sudeste,35-44,Premium,Smart TV,Crime|Drama|Romance,29
+U0116,Sul,25-34,Premium,Desktop,Romance|Crime|Terror,28
+U0117,Sudeste,25-34,Basic,Mobile,Animação|Suspense|Ficção científica,21
+U0118,Sul,35-44,Standard,Desktop,Aventura|Crime|Romance,6
+U0119,Sudeste,18-24,Premium,Smart TV,Animação|Ação|Documentário,47
+U0120,Sudeste,18-24,Basic,Smart TV,Terror|Documentário|Drama,25
+U0121,Nordeste,25-34,Basic,Mobile,Documentário|Ação|Família,14
+U0122,Nordeste,18-24,Basic,Mobile,Terror|Documentário|Drama,35
+U0123,Sudeste,18-24,Basic,Mobile,Família|Documentário|Comédia,21
+U0124,Sul,55+,Premium,Desktop,Romance|Suspense|Ação,8
+U0125,Nordeste,25-34,Premium,Mobile,Romance|Comédia|Suspense,34
+U0126,Sudeste,35-44,Standard,Smart TV,Ficção científica|Drama|Animação,5
+U0127,Sul,25-34,Basic,Mobile,Família|Ação|Documentário,14
+U0128,Sudeste,18-24,Premium,Smart TV,Terror|Animação|Comédia,32
+U0129,Nordeste,35-44,Basic,Mobile,Suspense|Romance|Família,35
+U0130,Sudeste,35-44,Basic,Smart TV,Drama|Romance|Terror,48
+U0131,Norte,55+,Basic,Smart TV,Drama|Animação|Comédia,35
+U0132,Nordeste,18-24,Premium,Tablet,Família|Crime|Ação,12
+U0133,Sul,18-24,Standard,Smart TV,Animação|Comédia|Documentário,35
+U0134,Sudeste,35-44,Standard,Mobile,Comédia|Drama|Romance,37
+U0135,Sul,25-34,Standard,Mobile,Drama|Família|Suspense,33
+U0136,Sudeste,18-24,Basic,Smart TV,Documentário|Romance|Crime,36
+U0137,Sudeste,25-34,Standard,Tablet,Animação|Ficção científica|Ação,40
+U0138,Sudeste,18-24,Premium,Smart TV,Suspense|Terror|Ficção científica,28
+U0139,Nordeste,45-54,Premium,Mobile,Animação|Terror|Comédia,48
+U0140,Nordeste,45-54,Standard,Desktop,Animação|Aventura|Suspense,31
+U0141,Centro-Oeste,35-44,Basic,Mobile,Comédia|Documentário|Animação,3
+U0142,Sudeste,25-34,Premium,Smart TV,Suspense|Crime|Animação,9
+U0143,Centro-Oeste,35-44,Standard,Desktop,Comédia|Família|Animação,24
+U0144,Nordeste,35-44,Basic,Tablet,Ficção científica|Terror|Romance,21
+U0145,Centro-Oeste,45-54,Basic,Mobile,Ação|Drama|Família,40
+U0146,Nordeste,25-34,Basic,Mobile,Animação|Aventura|Crime,33
+U0147,Sudeste,55+,Standard,Smart TV,Drama|Ação|Terror,1
+U0148,Centro-Oeste,25-34,Standard,Smart TV,Terror|Aventura|Romance,22
+U0149,Sul,35-44,Basic,Mobile,Família|Romance|Crime,27
+U0150,Nordeste,45-54,Basic,Smart TV,Romance|Ação|Família,48
+U0151,Sudeste,45-54,Standard,Mobile,Comédia|Suspense|Terror,32
+U0152,Sudeste,55+,Standard,Smart TV,Ação|Animação|Documentário,9
+U0153,Sudeste,25-34,Basic,Smart TV,Animação|Aventura|Drama,10
+U0154,Sul,35-44,Basic,Mobile,Drama|Ação|Terror,16
+U0155,Sudeste,25-34,Premium,Smart TV,Ação|Crime|Ficção científica,20
+U0156,Centro-Oeste,35-44,Premium,Mobile,Animação|Documentário|Drama,6
+U0157,Sudeste,25-34,Basic,Mobile,Drama|Ficção científica|Romance,38
+U0158,Sudeste,25-34,Standard,Smart TV,Documentário|Terror|Animação,4
+U0159,Sudeste,55+,Premium,Smart TV,Drama|Família|Crime,4
+U0160,Sudeste,45-54,Basic,Smart TV,Drama|Documentário|Ficção científica,7
+U0161,Sudeste,25-34,Premium,Mobile,Família|Terror|Ficção científica,7
+U0162,Nordeste,18-24,Standard,Smart TV,Romance|Animação|Documentário,28
+U0163,Norte,25-34,Standard,Mobile,Ficção científica|Ação|Comédia,40
+U0164,Sudeste,18-24,Standard,Mobile,Suspense|Ficção científica|Ação,46
+U0165,Sudeste,18-24,Basic,Smart TV,Aventura|Terror|Comédia,39
+U0166,Nordeste,45-54,Premium,Smart TV,Suspense|Documentário|Crime,33
+U0167,Sudeste,25-34,Standard,Smart TV,Ação|Suspense|Crime,29
+U0168,Nordeste,18-24,Basic,Smart TV,Terror|Aventura|Ficção científica,15
+U0169,Sul,35-44,Standard,Smart TV,Ação|Drama|Família,20
+U0170,Nordeste,18-24,Premium,Tablet,Ficção científica|Família|Aventura,42
+U0171,Sudeste,25-34,Premium,Smart TV,Animação|Aventura|Ação,6
+U0172,Norte,25-34,Standard,Smart TV,Crime|Suspense|Comédia,40
+U0173,Norte,18-24,Basic,Desktop,Crime|Suspense|Animação,39
+U0174,Sudeste,35-44,Basic,Desktop,Família|Documentário|Comédia,3
+U0175,Sul,35-44,Basic,Mobile,Suspense|Família|Crime,12
+U0176,Sudeste,25-34,Premium,Mobile,Crime|Ação|Drama,15
+U0177,Sudeste,45-54,Premium,Smart TV,Suspense|Ação|Romance,44
+U0178,Norte,55+,Premium,Desktop,Comédia|Suspense|Animação,22
+U0179,Sudeste,45-54,Basic,Mobile,Ficção científica|Documentário|Terror,38
+U0180,Sudeste,55+,Premium,Mobile,Documentário|Suspense|Família,29
+U0181,Sudeste,55+,Premium,Smart TV,Drama|Ação|Ficção científica,4
+U0182,Sul,45-54,Standard,Mobile,Ficção científica|Drama|Família,33
+U0183,Centro-Oeste,25-34,Premium,Mobile,Suspense|Animação|Crime,31
+U0184,Nordeste,18-24,Standard,Smart TV,Ficção científica|Suspense|Crime,42
+U0185,Nordeste,35-44,Basic,Mobile,Crime|Aventura|Família,45
+U0186,Sudeste,45-54,Basic,Smart TV,Aventura|Ação|Terror,29
+U0187,Nordeste,45-54,Basic,Mobile,Drama|Ficção científica|Terror,43
+U0188,Sudeste,35-44,Basic,Smart TV,Romance|Aventura|Ficção científica,7
+U0189,Sul,45-54,Standard,Desktop,Terror|Drama|Animação,30
+U0190,Sul,35-44,Basic,Mobile,Comédia|Animação|Ficção científica,28
+U0191,Norte,35-44,Basic,Mobile,Romance|Ficção científica|Documentário,9
+U0192,Nordeste,18-24,Basic,Smart TV,Ação|Romance|Família,26
+U0193,Nordeste,25-34,Standard,Mobile,Ficção científica|Comédia|Ação,33
+U0194,Sudeste,18-24,Premium,Smart TV,Aventura|Romance|Crime,20
+U0195,Sudeste,18-24,Standard,Smart TV,Terror|Romance|Animação,32
+U0196,Sul,35-44,Premium,Smart TV,Crime|Ficção científica|Comédia,36
+U0197,Nordeste,18-24,Premium,Smart TV,Animação|Documentário|Terror,29
+U0198,Nordeste,55+,Standard,Desktop,Ação|Família|Crime,20
+U0199,Sul,25-34,Standard,Smart TV,Documentário|Ficção científica|Família,13
+U0200,Sudeste,35-44,Standard,Desktop,Crime|Família|Terror,32
+U0201,Sudeste,18-24,Premium,Desktop,Comédia|Crime|Suspense,44
+U0202,Sudeste,45-54,Basic,Mobile,Romance|Ação|Drama,23
+U0203,Nordeste,25-34,Premium,Smart TV,Aventura|Crime|Família,25
+U0204,Norte,35-44,Standard,Mobile,Drama|Ação|Documentário,44
+U0205,Sul,35-44,Basic,Desktop,Crime|Comédia|Documentário,15
+U0206,Nordeste,35-44,Standard,Smart TV,Ficção científica|Ação|Suspense,39
+U0207,Nordeste,35-44,Premium,Smart TV,Ficção científica|Ação|Crime,13
+U0208,Sudeste,35-44,Premium,Smart TV,Drama|Romance|Crime,13
+U0209,Sudeste,45-54,Premium,Smart TV,Comédia|Ação|Família,14
+U0210,Sudeste,25-34,Standard,Smart TV,Documentário|Ficção científica|Aventura,3
+U0211,Centro-Oeste,55+,Standard,Smart TV,Documentário|Drama|Família,23
+U0212,Sudeste,25-34,Premium,Mobile,Família|Aventura|Ação,17
+U0213,Sul,25-34,Basic,Mobile,Romance|Suspense|Ação,12
+U0214,Sudeste,25-34,Basic,Smart TV,Família|Ação|Suspense,37
+U0215,Nordeste,25-34,Standard,Tablet,Documentário|Animação|Terror,25
+U0216,Sudeste,25-34,Standard,Smart TV,Terror|Aventura|Animação,10
+U0217,Norte,45-54,Standard,Smart TV,Romance|Crime|Aventura,10
+U0218,Sudeste,35-44,Premium,Smart TV,Comédia|Terror|Animação,39
+U0219,Centro-Oeste,55+,Basic,Smart TV,Crime|Aventura|Drama,14
+U0220,Sul,18-24,Premium,Mobile,Aventura|Crime|Suspense,19
+U0221,Sudeste,35-44,Standard,Smart TV,Ficção científica|Terror|Documentário,6
+U0222,Nordeste,18-24,Premium,Desktop,Suspense|Família|Terror,39
+U0223,Sul,25-34,Basic,Desktop,Romance|Crime|Drama,18
+U0224,Sudeste,25-34,Standard,Smart TV,Suspense|Romance|Comédia,34
+U0225,Nordeste,35-44,Premium,Mobile,Comédia|Terror|Aventura,20
+U0226,Sul,35-44,Standard,Mobile,Animação|Aventura|Drama,39
+U0227,Sul,25-34,Basic,Desktop,Aventura|Documentário|Animação,20
+U0228,Nordeste,25-34,Basic,Smart TV,Ficção científica|Suspense|Animação,43
+U0229,Nordeste,25-34,Basic,Mobile,Aventura|Romance|Ação,35
+U0230,Sudeste,25-34,Standard,Smart TV,Aventura|Ação|Suspense,24
+U0231,Sudeste,35-44,Standard,Smart TV,Animação|Suspense|Família,24
+U0232,Sudeste,25-34,Standard,Desktop,Ação|Família|Aventura,30
+U0233,Sul,45-54,Standard,Smart TV,Drama|Comédia|Ação,34
+U0234,Sudeste,55+,Basic,Mobile,Drama|Família|Terror,34
+U0235,Sudeste,25-34,Basic,Smart TV,Suspense|Romance|Crime,2
+U0236,Nordeste,55+,Premium,Desktop,Crime|Comédia|Documentário,13
+U0237,Sudeste,45-54,Premium,Smart TV,Comédia|Terror|Romance,21
+U0238,Sudeste,18-24,Standard,Smart TV,Drama|Crime|Ação,26
+U0239,Nordeste,45-54,Standard,Mobile,Animação|Ficção científica|Terror,5
+U0240,Nordeste,25-34,Premium,Smart TV,Crime|Ficção científica|Terror,10
+U0241,Nordeste,35-44,Premium,Smart TV,Animação|Comédia|Aventura,23
+U0242,Sudeste,35-44,Standard,Mobile,Crime|Comédia|Ação,22
+U0243,Sul,45-54,Basic,Tablet,Animação|Suspense|Ficção científica,30
+U0244,Centro-Oeste,35-44,Basic,Mobile,Ação|Romance|Crime,4
+U0245,Sudeste,45-54,Standard,Smart TV,Romance|Drama|Crime,39
+U0246,Sudeste,25-34,Standard,Smart TV,Família|Terror|Documentário,15
+U0247,Sudeste,55+,Basic,Desktop,Comédia|Crime|Aventura,27
+U0248,Centro-Oeste,35-44,Basic,Smart TV,Terror|Família|Documentário,46
+U0249,Sudeste,45-54,Premium,Mobile,Documentário|Família|Aventura,19
+U0250,Sul,45-54,Basic,Mobile,Crime|Suspense|Comédia,16
+U0251,Sul,18-24,Premium,Desktop,Ação|Família|Terror,13
+U0252,Norte,25-34,Premium,Smart TV,Crime|Aventura|Comédia,32
+U0253,Sudeste,45-54,Standard,Tablet,Comédia|Romance|Terror,46
+U0254,Sul,55+,Basic,Smart TV,Família|Animação|Ficção científica,27
+U0255,Norte,35-44,Premium,Mobile,Drama|Suspense|Comédia,10
+U0256,Sudeste,25-34,Standard,Smart TV,Drama|Ficção científica|Animação,46
+U0257,Sul,25-34,Basic,Mobile,Crime|Aventura|Comédia,3
+U0258,Sudeste,35-44,Standard,Smart TV,Romance|Família|Animação,20
+U0259,Sudeste,25-34,Basic,Smart TV,Ficção científica|Aventura|Drama,7
+U0260,Sudeste,45-54,Standard,Mobile,Ficção científica|Aventura|Família,2
+U0261,Sudeste,35-44,Premium,Smart TV,Terror|Aventura|Romance,48
+U0262,Sudeste,25-34,Standard,Tablet,Família|Terror|Drama,5
+U0263,Nordeste,25-34,Premium,Desktop,Crime|Terror|Animação,44
+U0264,Sul,55+,Standard,Mobile,Ficção científica|Aventura|Documentário,27
+U0265,Sudeste,35-44,Premium,Mobile,Ficção científica|Crime|Drama,16
+U0266,Nordeste,25-34,Premium,Smart TV,Comédia|Suspense|Ação,42
+U0267,Norte,25-34,Basic,Smart TV,Ação|Drama|Animação,1
+U0268,Sudeste,25-34,Premium,Smart TV,Crime|Ação|Documentário,34
+U0269,Sudeste,25-34,Premium,Mobile,Animação|Crime|Ação,37
+U0270,Sudeste,35-44,Basic,Desktop,Ficção científica|Ação|Aventura,18
+U0271,Nordeste,25-34,Premium,Smart TV,Terror|Animação|Comédia,15
+U0272,Nordeste,25-34,Basic,Smart TV,Romance|Crime|Suspense,1
+U0273,Sul,25-34,Basic,Smart TV,Crime|Documentário|Ação,2
+U0274,Sudeste,25-34,Basic,Mobile,Família|Animação|Documentário,3
+U0275,Sul,35-44,Standard,Smart TV,Crime|Ação|Romance,22
+U0276,Nordeste,35-44,Basic,Smart TV,Família|Crime|Comédia,26
+U0277,Sudeste,18-24,Basic,Smart TV,Suspense|Animação|Família,21
+U0278,Sudeste,25-34,Premium,Smart TV,Família|Terror|Ficção científica,34
+U0279,Sudeste,45-54,Standard,Mobile,Romance|Família|Animação,18
+U0280,Nordeste,45-54,Premium,Tablet,Ficção científica|Ação|Crime,38
+U0281,Norte,18-24,Basic,Smart TV,Terror|Aventura|Ficção científica,32
+U0282,Sudeste,18-24,Basic,Smart TV,Romance|Ação|Ficção científica,45
+U0283,Centro-Oeste,55+,Premium,Smart TV,Ação|Crime|Família,35
+U0284,Sudeste,18-24,Basic,Mobile,Documentário|Família|Terror,7
+U0285,Nordeste,55+,Standard,Mobile,Suspense|Animação|Ação,27
+U0286,Centro-Oeste,45-54,Premium,Mobile,Suspense|Aventura|Ficção científica,32
+U0287,Sul,18-24,Basic,Mobile,Documentário|Aventura|Terror,1
+U0288,Sudeste,18-24,Standard,Tablet,Romance|Ficção científica|Ação,3
+U0289,Sudeste,55+,Standard,Smart TV,Ficção científica|Documentário|Crime,2
+U0290,Nordeste,25-34,Basic,Smart TV,Drama|Romance|Família,9
+U0291,Sul,35-44,Standard,Smart TV,Crime|Animação|Drama,43
+U0292,Sudeste,25-34,Standard,Mobile,Terror|Crime|Comédia,12
+U0293,Sul,35-44,Basic,Smart TV,Documentário|Suspense|Família,9
+U0294,Sudeste,45-54,Standard,Desktop,Crime|Romance|Ação,22
+U0295,Sudeste,35-44,Standard,Mobile,Ação|Ficção científica|Comédia,20
+U0296,Nordeste,18-24,Standard,Tablet,Documentário|Drama|Comédia,48
+U0297,Sudeste,35-44,Premium,Tablet,Terror|Suspense|Ficção científica,5
+U0298,Sudeste,35-44,Premium,Mobile,Aventura|Suspense|Comédia,41
+U0299,Sudeste,25-34,Standard,Desktop,Animação|Suspense|Crime,12
+U0300,Centro-Oeste,35-44,Premium,Mobile,Ficção científica|Crime|Comédia,15
+U0301,Sudeste,35-44,Premium,Smart TV,Comédia|Romance|Suspense,24
+U0302,Sudeste,18-24,Basic,Mobile,Drama|Suspense|Animação,47
+U0303,Sudeste,55+,Basic,Tablet,Terror|Drama|Aventura,12
+U0304,Sudeste,25-34,Basic,Mobile,Suspense|Documentário|Crime,17
+U0305,Sudeste,25-34,Basic,Mobile,Comédia|Animação|Aventura,32
+U0306,Sudeste,18-24,Standard,Smart TV,Aventura|Terror|Ação,33
+U0307,Sudeste,25-34,Basic,Desktop,Drama|Terror|Aventura,18
+U0308,Nordeste,25-34,Premium,Smart TV,Suspense|Família|Crime,7
+U0309,Sudeste,25-34,Standard,Mobile,Suspense|Aventura|Animação,38
+U0310,Sudeste,45-54,Basic,Mobile,Ficção científica|Drama|Comédia,44
+U0311,Nordeste,35-44,Premium,Mobile,Aventura|Crime|Documentário,29
+U0312,Sudeste,18-24,Standard,Smart TV,Ficção científica|Aventura|Romance,42
+U0313,Sudeste,35-44,Basic,Mobile,Terror|Animação|Suspense,13
+U0314,Norte,35-44,Basic,Smart TV,Crime|Suspense|Ficção científica,42
+U0315,Sul,25-34,Standard,Smart TV,Romance|Terror|Crime,39
+U0316,Nordeste,55+,Standard,Smart TV,Crime|Terror|Comédia,44
+U0317,Sul,25-34,Standard,Mobile,Documentário|Família|Ação,45
+U0318,Norte,18-24,Premium,Smart TV,Animação|Crime|Romance,17
+U0319,Sudeste,18-24,Standard,Smart TV,Ação|Aventura|Drama,6
+U0320,Sudeste,25-34,Premium,Desktop,Terror|Documentário|Família,36
+U0321,Nordeste,25-34,Standard,Mobile,Suspense|Drama|Aventura,33
+U0322,Sudeste,18-24,Standard,Desktop,Drama|Crime|Ação,32
+U0323,Sul,35-44,Basic,Mobile,Família|Ação|Suspense,31
+U0324,Sudeste,45-54,Standard,Smart TV,Drama|Documentário|Animação,2
+U0325,Sudeste,45-54,Standard,Mobile,Terror|Comédia|Ficção científica,33
+U0326,Nordeste,35-44,Standard,Smart TV,Comédia|Suspense|Crime,24
+U0327,Sul,35-44,Standard,Tablet,Ficção científica|Terror|Romance,2
+U0328,Sul,35-44,Standard,Smart TV,Crime|Suspense|Drama,42
+U0329,Sudeste,25-34,Standard,Desktop,Crime|Drama|Ficção científica,2
+U0330,Sudeste,25-34,Standard,Mobile,Ficção científica|Aventura|Documentário,12
+U0331,Nordeste,25-34,Standard,Desktop,Drama|Animação|Suspense,15
+U0332,Sudeste,18-24,Premium,Smart TV,Drama|Terror|Ficção científica,38
+U0333,Sul,35-44,Standard,Mobile,Drama|Crime|Terror,4
+U0334,Sul,25-34,Standard,Smart TV,Documentário|Romance|Ficção científica,19
+U0335,Sudeste,18-24,Standard,Desktop,Documentário|Terror|Comédia,18
+U0336,Sudeste,25-34,Standard,Smart TV,Aventura|Família|Suspense,20
+U0337,Nordeste,45-54,Premium,Smart TV,Drama|Aventura|Suspense,42
+U0338,Sudeste,25-34,Premium,Mobile,Comédia|Suspense|Romance,16
+U0339,Sudeste,25-34,Premium,Mobile,Aventura|Suspense|Animação,18
+U0340,Norte,18-24,Premium,Mobile,Crime|Drama|Animação,20
+U0341,Sudeste,18-24,Standard,Mobile,Ação|Suspense|Drama,19
+U0342,Nordeste,35-44,Premium,Smart TV,Crime|Ficção científica|Terror,46
+U0343,Sudeste,18-24,Premium,Mobile,Ação|Animação|Drama,13
+U0344,Sudeste,25-34,Premium,Smart TV,Ação|Suspense|Crime,6
+U0345,Sul,55+,Premium,Mobile,Aventura|Ficção científica|Suspense,21
+U0346,Sudeste,25-34,Standard,Smart TV,Terror|Ação|Romance,5
+U0347,Nordeste,35-44,Standard,Smart TV,Ficção científica|Documentário|Família,39
+U0348,Sudeste,35-44,Standard,Desktop,Terror|Ação|Aventura,43
+U0349,Sul,25-34,Standard,Desktop,Família|Suspense|Ação,40
+U0350,Nordeste,25-34,Standard,Tablet,Romance|Comédia|Drama,39
+U0351,Sul,25-34,Basic,Mobile,Ação|Terror|Crime,21
+U0352,Sudeste,25-34,Standard,Smart TV,Crime|Ficção científica|Aventura,34
+U0353,Sudeste,25-34,Standard,Mobile,Terror|Suspense|Crime,20
+U0354,Sudeste,35-44,Basic,Smart TV,Documentário|Ficção científica|Comédia,42
+U0355,Centro-Oeste,18-24,Basic,Mobile,Drama|Família|Animação,10
+U0356,Sul,18-24,Basic,Smart TV,Suspense|Romance|Crime,7
+U0357,Nordeste,35-44,Standard,Tablet,Comédia|Família|Crime,47
+U0358,Sudeste,25-34,Standard,Smart TV,Animação|Ação|Terror,18
+U0359,Sudeste,35-44,Basic,Smart TV,Aventura|Família|Suspense,15
+U0360,Sudeste,18-24,Basic,Desktop,Documentário|Suspense|Aventura,33
+U0361,Sudeste,35-44,Standard,Smart TV,Romance|Comédia|Crime,17
+U0362,Sudeste,45-54,Basic,Smart TV,Suspense|Comédia|Drama,36
+U0363,Sudeste,35-44,Basic,Mobile,Comédia|Aventura|Família,21
+U0364,Sudeste,45-54,Standard,Tablet,Romance|Ação|Ficção científica,38
+U0365,Sul,25-34,Standard,Smart TV,Ação|Documentário|Romance,4
+U0366,Sul,18-24,Premium,Smart TV,Aventura|Romance|Terror,35
+U0367,Sudeste,25-34,Basic,Smart TV,Crime|Aventura|Romance,16
+U0368,Nordeste,25-34,Basic,Mobile,Ficção científica|Aventura|Terror,21
+U0369,Sul,45-54,Basic,Smart TV,Animação|Ação|Comédia,45
+U0370,Sudeste,25-34,Standard,Mobile,Romance|Suspense|Terror,24
+U0371,Nordeste,25-34,Basic,Mobile,Documentário|Terror|Aventura,4
+U0372,Sul,45-54,Basic,Desktop,Família|Suspense|Terror,23
+U0373,Sul,25-34,Standard,Mobile,Documentário|Ficção científica|Ação,12
+U0374,Centro-Oeste,35-44,Basic,Mobile,Documentário|Família|Drama,23
+U0375,Sudeste,25-34,Standard,Mobile,Família|Crime|Drama,11
+U0376,Sul,55+,Standard,Smart TV,Suspense|Família|Documentário,31
+U0377,Sudeste,25-34,Premium,Smart TV,Aventura|Crime|Drama,12
+U0378,Sudeste,35-44,Standard,Mobile,Comédia|Animação|Aventura,23
+U0379,Sudeste,35-44,Basic,Smart TV,Animação|Crime|Documentário,46
+U0380,Sudeste,55+,Standard,Smart TV,Aventura|Comédia|Crime,31
+U0381,Sudeste,55+,Basic,Smart TV,Crime|Romance|Família,35
+U0382,Sul,45-54,Basic,Smart TV,Terror|Ação|Crime,38
+U0383,Sudeste,18-24,Standard,Smart TV,Documentário|Romance|Ficção científica,45
+U0384,Sudeste,25-34,Basic,Mobile,Crime|Drama|Comédia,43
+U0385,Sudeste,45-54,Basic,Desktop,Terror|Ação|Suspense,42
+U0386,Sudeste,35-44,Standard,Smart TV,Drama|Ficção científica|Romance,17
+U0387,Sul,45-54,Premium,Desktop,Drama|Terror|Aventura,30
+U0388,Sul,45-54,Basic,Smart TV,Drama|Ficção científica|Animação,40
+U0389,Nordeste,25-34,Standard,Tablet,Aventura|Drama|Documentário,27
+U0390,Norte,25-34,Premium,Mobile,Ação|Drama|Romance,7
+U0391,Sudeste,25-34,Basic,Mobile,Ação|Comédia|Animação,25
+U0392,Sudeste,35-44,Standard,Mobile,Animação|Ficção científica|Crime,11
+U0393,Nordeste,25-34,Basic,Mobile,Aventura|Suspense|Ação,34
+U0394,Nordeste,18-24,Premium,Smart TV,Romance|Animação|Aventura,42
+U0395,Norte,35-44,Basic,Smart TV,Terror|Ficção científica|Família,34
+U0396,Nordeste,18-24,Basic,Tablet,Terror|Ação|Romance,27
+U0397,Nordeste,25-34,Premium,Desktop,Drama|Terror|Documentário,29
+U0398,Sudeste,25-34,Standard,Mobile,Ficção científica|Comédia|Documentário,26
+U0399,Sudeste,25-34,Basic,Desktop,Ação|Romance|Crime,22
+U0400,Sul,18-24,Premium,Smart TV,Comédia|Ficção científica|Terror,11
+U0401,Sul,35-44,Premium,Mobile,Animação|Suspense|Família,33
+U0402,Nordeste,45-54,Standard,Mobile,Crime|Ação|Animação,17
+U0403,Norte,35-44,Basic,Smart TV,Comédia|Romance|Ficção científica,8
+U0404,Sudeste,55+,Basic,Desktop,Drama|Documentário|Suspense,39
+U0405,Sudeste,25-34,Premium,Desktop,Romance|Animação|Drama,27
+U0406,Centro-Oeste,18-24,Basic,Desktop,Família|Drama|Documentário,25
+U0407,Nordeste,18-24,Basic,Mobile,Documentário|Aventura|Drama,25
+U0408,Nordeste,35-44,Basic,Smart TV,Aventura|Documentário|Família,4
+U0409,Nordeste,18-24,Basic,Mobile,Terror|Família|Romance,26
+U0410,Norte,55+,Standard,Smart TV,Documentário|Ação|Animação,27
+U0411,Sudeste,35-44,Standard,Desktop,Aventura|Animação|Drama,25
+U0412,Sudeste,45-54,Basic,Smart TV,Família|Ficção científica|Terror,1
+U0413,Sudeste,25-34,Basic,Desktop,Aventura|Animação|Romance,37
+U0414,Sudeste,35-44,Basic,Mobile,Comédia|Aventura|Ficção científica,30
+U0415,Nordeste,25-34,Basic,Smart TV,Família|Animação|Aventura,37
+U0416,Sudeste,35-44,Basic,Smart TV,Ficção científica|Aventura|Crime,25
+U0417,Sul,45-54,Standard,Mobile,Ação|Documentário|Ficção científica,16
+U0418,Sudeste,25-34,Basic,Smart TV,Família|Drama|Aventura,40
+U0419,Nordeste,45-54,Basic,Desktop,Aventura|Drama|Documentário,17
+U0420,Sudeste,35-44,Standard,Smart TV,Família|Ação|Animação,22
+U0421,Sul,35-44,Standard,Smart TV,Família|Crime|Ficção científica,1
+U0422,Sudeste,25-34,Standard,Smart TV,Aventura|Suspense|Animação,8
+U0423,Sul,18-24,Premium,Smart TV,Ficção científica|Drama|Documentário,6
+U0424,Sudeste,18-24,Basic,Smart TV,Ficção científica|Romance|Família,21
+U0425,Sul,35-44,Basic,Desktop,Ficção científica|Documentário|Família,13
+U0426,Sul,18-24,Basic,Mobile,Crime|Drama|Ficção científica,16
+U0427,Norte,55+,Basic,Desktop,Documentário|Animação|Crime,37
+U0428,Centro-Oeste,55+,Premium,Smart TV,Drama|Ação|Documentário,33
+U0429,Sudeste,18-24,Standard,Smart TV,Suspense|Ficção científica|Romance,39
+U0430,Sudeste,35-44,Premium,Smart TV,Documentário|Terror|Romance,40
+U0431,Sudeste,25-34,Premium,Mobile,Romance|Terror|Drama,12
+U0432,Sudeste,25-34,Premium,Smart TV,Crime|Documentário|Aventura,30
+U0433,Sudeste,25-34,Standard,Smart TV,Documentário|Ação|Suspense,42
+U0434,Centro-Oeste,45-54,Premium,Mobile,Ação|Aventura|Família,15
+U0435,Centro-Oeste,45-54,Standard,Smart TV,Animação|Drama|Crime,19
+U0436,Sudeste,18-24,Basic,Mobile,Aventura|Suspense|Família,26
+U0437,Nordeste,25-34,Standard,Mobile,Ficção científica|Comédia|Documentário,39
+U0438,Nordeste,25-34,Premium,Mobile,Romance|Família|Suspense,8
+U0439,Sudeste,35-44,Premium,Smart TV,Ação|Documentário|Aventura,23
+U0440,Centro-Oeste,18-24,Standard,Mobile,Documentário|Família|Animação,12
+U0441,Norte,45-54,Premium,Smart TV,Animação|Família|Crime,35
+U0442,Norte,55+,Standard,Smart TV,Documentário|Suspense|Crime,12
+U0443,Nordeste,25-34,Standard,Smart TV,Família|Crime|Documentário,18
+U0444,Sudeste,45-54,Basic,Smart TV,Suspense|Comédia|Aventura,17
+U0445,Sudeste,35-44,Basic,Mobile,Ação|Animação|Documentário,4
+U0446,Norte,35-44,Basic,Mobile,Comédia|Romance|Ação,33
+U0447,Sudeste,45-54,Premium,Mobile,Ação|Suspense|Aventura,13
+U0448,Sudeste,25-34,Premium,Smart TV,Crime|Ficção científica|Romance,24
+U0449,Sudeste,35-44,Basic,Smart TV,Terror|Aventura|Animação,34
+U0450,Sul,25-34,Basic,Smart TV,Ficção científica|Família|Crime,38
+U0451,Sudeste,35-44,Basic,Tablet,Crime|Suspense|Terror,45
+U0452,Nordeste,18-24,Standard,Smart TV,Crime|Aventura|Comédia,7
+U0453,Sul,25-34,Standard,Smart TV,Crime|Família|Animação,31
+U0454,Sudeste,25-34,Standard,Smart TV,Aventura|Ação|Terror,16
+U0455,Sudeste,25-34,Basic,Mobile,Romance|Ação|Aventura,37
+U0456,Sul,25-34,Basic,Mobile,Ação|Comédia|Terror,19
+U0457,Nordeste,25-34,Premium,Smart TV,Ação|Drama|Ficção científica,1
+U0458,Centro-Oeste,45-54,Standard,Mobile,Drama|Documentário|Ficção científica,42
+U0459,Nordeste,35-44,Basic,Mobile,Comédia|Suspense|Família,37
+U0460,Sudeste,25-34,Basic,Mobile,Romance|Família|Terror,16
+U0461,Nordeste,45-54,Basic,Tablet,Aventura|Documentário|Crime,41
+U0462,Sul,45-54,Basic,Desktop,Suspense|Documentário|Ação,20
+U0463,Nordeste,18-24,Basic,Mobile,Romance|Comédia|Terror,20
+U0464,Nordeste,35-44,Standard,Tablet,Romance|Ficção científica|Ação,15
+U0465,Sudeste,25-34,Basic,Desktop,Documentário|Romance|Terror,24
+U0466,Sul,35-44,Standard,Smart TV,Família|Ficção científica|Aventura,48
+U0467,Nordeste,35-44,Standard,Mobile,Ação|Terror|Documentário,3
+U0468,Sudeste,18-24,Basic,Mobile,Ação|Ficção científica|Crime,29
+U0469,Nordeste,25-34,Standard,Mobile,Aventura|Romance|Suspense,9
+U0470,Sudeste,25-34,Premium,Mobile,Crime|Aventura|Ação,6
+U0471,Sul,35-44,Basic,Desktop,Família|Animação|Comédia,3
+U0472,Nordeste,18-24,Premium,Desktop,Ação|Documentário|Aventura,14
+U0473,Sudeste,45-54,Basic,Smart TV,Ficção científica|Ação|Suspense,36
+U0474,Sudeste,35-44,Basic,Mobile,Drama|Aventura|Ação,36
+U0475,Sul,25-34,Basic,Mobile,Terror|Documentário|Suspense,39
+U0476,Sudeste,35-44,Standard,Desktop,Terror|Ficção científica|Crime,7
+U0477,Sudeste,18-24,Standard,Mobile,Documentário|Animação|Aventura,6
+U0478,Nordeste,35-44,Premium,Smart TV,Ficção científica|Animação|Documentário,48
+U0479,Sudeste,25-34,Basic,Smart TV,Comédia|Suspense|Crime,45
+U0480,Sul,18-24,Standard,Smart TV,Comédia|Crime|Animação,34
+U0481,Sudeste,25-34,Basic,Smart TV,Drama|Aventura|Comédia,41
+U0482,Sudeste,18-24,Basic,Smart TV,Documentário|Suspense|Comédia,39
+U0483,Sudeste,35-44,Standard,Smart TV,Romance|Animação|Crime,28
+U0484,Norte,35-44,Basic,Desktop,Ação|Crime|Aventura,23
+U0485,Sul,18-24,Standard,Smart TV,Terror|Crime|Drama,47
+U0486,Sudeste,18-24,Standard,Smart TV,Ficção científica|Documentário|Comédia,33
+U0487,Sudeste,45-54,Standard,Mobile,Crime|Drama|Família,43
+U0488,Sul,25-34,Standard,Smart TV,Animação|Documentário|Comédia,10
+U0489,Sul,25-34,Basic,Mobile,Família|Documentário|Animação,11
+U0490,Sudeste,35-44,Basic,Desktop,Terror|Comédia|Documentário,31
+U0491,Sudeste,18-24,Standard,Smart TV,Drama|Ação|Aventura,46
+U0492,Sul,55+,Basic,Mobile,Drama|Aventura|Família,30
+U0493,Nordeste,18-24,Basic,Smart TV,Romance|Documentário|Drama,22
+U0494,Nordeste,45-54,Basic,Smart TV,Documentário|Aventura|Suspense,2
+U0495,Sul,25-34,Standard,Mobile,Suspense|Romance|Drama,8
+U0496,Nordeste,18-24,Standard,Smart TV,Romance|Ficção científica|Família,12
+U0497,Sul,25-34,Basic,Mobile,Animação|Suspense|Drama,10
+U0498,Sul,55+,Basic,Mobile,Terror|Suspense|Família,34
+U0499,Nordeste,35-44,Basic,Smart TV,Aventura|Ação|Animação,33
+U0500,Sudeste,18-24,Basic,Smart TV,Ficção científica|Terror|Crime,19
+U0501,Centro-Oeste,55+,Premium,Mobile,Romance|Documentário|Suspense,48
+U0502,Sudeste,18-24,Basic,Smart TV,Terror|Crime|Suspense,19
+U0503,Sul,18-24,Basic,Mobile,Romance|Ficção científica|Aventura,22
+U0504,Sul,18-24,Premium,Desktop,Animação|Aventura|Drama,26
+U0505,Nordeste,45-54,Standard,Mobile,Aventura|Suspense|Ficção científica,28
+U0506,Sudeste,18-24,Basic,Smart TV,Romance|Comédia|Ação,10
+U0507,Centro-Oeste,18-24,Standard,Mobile,Aventura|Crime|Documentário,15
+U0508,Sudeste,55+,Standard,Mobile,Família|Ficção científica|Drama,34
+U0509,Sudeste,35-44,Premium,Mobile,Crime|Terror|Ação,41
+U0510,Centro-Oeste,25-34,Premium,Tablet,Aventura|Família|Romance,21
+U0511,Sudeste,35-44,Standard,Mobile,Ação|Aventura|Documentário,6
+U0512,Sul,25-34,Basic,Smart TV,Ação|Ficção científica|Crime,41
+U0513,Sul,25-34,Standard,Smart TV,Crime|Animação|Aventura,28
+U0514,Centro-Oeste,25-34,Basic,Desktop,Documentário|Animação|Crime,21
+U0515,Nordeste,35-44,Standard,Mobile,Terror|Aventura|Suspense,29
+U0516,Sudeste,35-44,Premium,Desktop,Drama|Ação|Aventura,40
+U0517,Nordeste,25-34,Basic,Mobile,Aventura|Drama|Ação,1
+U0518,Sudeste,18-24,Premium,Tablet,Suspense|Família|Aventura,18
+U0519,Sul,25-34,Standard,Mobile,Romance|Documentário|Terror,46
+U0520,Nordeste,35-44,Basic,Tablet,Romance|Crime|Ação,15
+U0521,Nordeste,45-54,Premium,Desktop,Romance|Família|Terror,47
+U0522,Nordeste,45-54,Standard,Desktop,Comédia|Crime|Documentário,14
+U0523,Nordeste,55+,Standard,Tablet,Comédia|Crime|Suspense,23
+U0524,Sul,45-54,Standard,Mobile,Drama|Ação|Família,4
+U0525,Centro-Oeste,55+,Basic,Mobile,Comédia|Romance|Animação,35
+U0526,Sudeste,35-44,Basic,Mobile,Ação|Romance|Documentário,12
+U0527,Sudeste,25-34,Standard,Mobile,Ação|Crime|Terror,41
+U0528,Nordeste,35-44,Premium,Mobile,Suspense|Ficção científica|Terror,7
+U0529,Sudeste,25-34,Standard,Mobile,Ação|Terror|Aventura,6
+U0530,Sudeste,18-24,Premium,Smart TV,Drama|Crime|Terror,23
+U0531,Nordeste,25-34,Premium,Desktop,Animação|Ficção científica|Ação,5
+U0532,Sul,25-34,Basic,Desktop,Crime|Ficção científica|Documentário,16
+U0533,Sudeste,35-44,Premium,Mobile,Drama|Suspense|Crime,34
+U0534,Sudeste,25-34,Premium,Mobile,Drama|Animação|Família,25
+U0535,Sudeste,18-24,Basic,Desktop,Documentário|Drama|Ficção científica,27
+U0536,Sudeste,55+,Standard,Mobile,Romance|Família|Documentário,5
+U0537,Sudeste,35-44,Standard,Mobile,Aventura|Crime|Drama,33
+U0538,Nordeste,25-34,Premium,Mobile,Comédia|Drama|Ação,5
+U0539,Sudeste,25-34,Premium,Mobile,Crime|Suspense|Comédia,28
+U0540,Nordeste,18-24,Standard,Mobile,Ficção científica|Documentário|Comédia,38
+U0541,Norte,45-54,Premium,Smart TV,Terror|Ação|Suspense,35
+U0542,Sudeste,25-34,Standard,Smart TV,Suspense|Ficção científica|Animação,17
+U0543,Norte,55+,Premium,Desktop,Suspense|Ficção científica|Família,8
+U0544,Sudeste,25-34,Standard,Tablet,Ação|Romance|Documentário,40
+U0545,Nordeste,45-54,Premium,Smart TV,Crime|Ação|Família,11
+U0546,Norte,18-24,Premium,Desktop,Terror|Drama|Ação,24
+U0547,Nordeste,25-34,Basic,Mobile,Animação|Suspense|Aventura,12
+U0548,Sudeste,25-34,Premium,Smart TV,Animação|Comédia|Romance,2
+U0549,Sudeste,25-34,Standard,Mobile,Documentário|Ficção científica|Comédia,20
+U0550,Sudeste,55+,Basic,Smart TV,Ação|Romance|Terror,27
+U0551,Norte,35-44,Basic,Smart TV,Documentário|Terror|Suspense,37
+U0552,Sudeste,25-34,Standard,Tablet,Ação|Drama|Ficção científica,35
+U0553,Sul,35-44,Basic,Mobile,Documentário|Ficção científica|Crime,40
+U0554,Sudeste,18-24,Basic,Smart TV,Família|Animação|Ação,40
+U0555,Sudeste,55+,Standard,Mobile,Comédia|Ação|Crime,20
+U0556,Sudeste,25-34,Basic,Mobile,Romance|Drama|Crime,17
+U0557,Sudeste,25-34,Standard,Mobile,Ficção científica|Comédia|Suspense,29
+U0558,Sul,25-34,Premium,Smart TV,Terror|Drama|Comédia,24
+U0559,Sudeste,18-24,Basic,Smart TV,Comédia|Crime|Terror,15
+U0560,Sudeste,55+,Standard,Mobile,Aventura|Romance|Ficção científica,2
+U0561,Sul,25-34,Basic,Mobile,Drama|Documentário|Suspense,23
+U0562,Sudeste,18-24,Premium,Desktop,Drama|Suspense|Ação,23
+U0563,Nordeste,45-54,Standard,Smart TV,Suspense|Documentário|Ação,46
+U0564,Sul,25-34,Premium,Desktop,Ação|Suspense|Comédia,40
+U0565,Sul,18-24,Standard,Tablet,Terror|Aventura|Suspense,13
+U0566,Sudeste,35-44,Premium,Smart TV,Ficção científica|Animação|Família,6
+U0567,Sudeste,18-24,Standard,Smart TV,Ficção científica|Documentário|Suspense,38
+U0568,Nordeste,45-54,Standard,Mobile,Ficção científica|Ação|Crime,24
+U0569,Nordeste,35-44,Basic,Desktop,Terror|Ficção científica|Comédia,3
+U0570,Sudeste,25-34,Standard,Smart TV,Romance|Documentário|Animação,37
+U0571,Sudeste,25-34,Standard,Smart TV,Aventura|Crime|Drama,17
+U0572,Sudeste,25-34,Standard,Mobile,Suspense|Romance|Terror,9
+U0573,Nordeste,35-44,Basic,Desktop,Suspense|Crime|Drama,32
+U0574,Sudeste,35-44,Standard,Smart TV,Suspense|Animação|Crime,38
+U0575,Norte,45-54,Standard,Smart TV,Crime|Ficção científica|Aventura,38
+U0576,Sudeste,25-34,Standard,Smart TV,Terror|Crime|Drama,14
+U0577,Norte,45-54,Standard,Tablet,Romance|Drama|Ficção científica,29
+U0578,Sudeste,18-24,Standard,Mobile,Documentário|Ação|Ficção científica,23
+U0579,Sudeste,55+,Standard,Mobile,Ação|Terror|Suspense,42
+U0580,Sudeste,25-34,Standard,Desktop,Terror|Documentário|Drama,10
+U0581,Sudeste,45-54,Premium,Mobile,Suspense|Ficção científica|Documentário,40
+U0582,Norte,25-34,Premium,Desktop,Terror|Suspense|Aventura,17
+U0583,Sudeste,18-24,Basic,Smart TV,Comédia|Crime|Documentário,30
+U0584,Sudeste,25-34,Basic,Smart TV,Aventura|Terror|Animação,25
+U0585,Norte,55+,Standard,Smart TV,Documentário|Crime|Comédia,17
+U0586,Sudeste,45-54,Premium,Smart TV,Suspense|Animação|Documentário,12
+U0587,Sudeste,35-44,Basic,Desktop,Aventura|Comédia|Animação,18
+U0588,Sudeste,25-34,Standard,Mobile,Terror|Romance|Suspense,30
+U0589,Sul,35-44,Basic,Smart TV,Família|Crime|Animação,30
+U0590,Centro-Oeste,25-34,Premium,Mobile,Suspense|Romance|Ação,30
+U0591,Sudeste,35-44,Basic,Mobile,Suspense|Ação|Família,32
+U0592,Nordeste,25-34,Premium,Mobile,Família|Terror|Suspense,3
+U0593,Sudeste,45-54,Standard,Smart TV,Ficção científica|Suspense|Terror,19
+U0594,Sudeste,35-44,Premium,Tablet,Crime|Terror|Animação,16
+U0595,Nordeste,25-34,Premium,Mobile,Suspense|Crime|Ficção científica,20
+U0596,Nordeste,35-44,Standard,Desktop,Terror|Crime|Romance,19
+U0597,Sul,25-34,Standard,Mobile,Aventura|Animação|Documentário,9
+U0598,Sudeste,18-24,Standard,Mobile,Ação|Animação|Suspense,47
+U0599,Sudeste,25-34,Premium,Smart TV,Ação|Comédia|Drama,1
+U0600,Nordeste,25-34,Standard,Mobile,Crime|Animação|Terror,29
+U0601,Sul,25-34,Basic,Smart TV,Drama|Ficção científica|Suspense,23
+U0602,Sudeste,35-44,Premium,Tablet,Suspense|Documentário|Aventura,34
+U0603,Sudeste,35-44,Basic,Smart TV,Terror|Comédia|Suspense,40
+U0604,Nordeste,25-34,Premium,Smart TV,Drama|Animação|Terror,32
+U0605,Sudeste,55+,Basic,Mobile,Família|Crime|Animação,37
+U0606,Nordeste,45-54,Standard,Mobile,Drama|Terror|Família,14
+U0607,Nordeste,18-24,Premium,Mobile,Ficção científica|Animação|Crime,48
+U0608,Sudeste,25-34,Standard,Mobile,Ficção científica|Aventura|Terror,5
+U0609,Sul,45-54,Standard,Mobile,Animação|Comédia|Terror,33
+U0610,Sul,25-34,Basic,Desktop,Ação|Drama|Documentário,8
+U0611,Sul,25-34,Basic,Mobile,Terror|Comédia|Suspense,12
+U0612,Centro-Oeste,55+,Basic,Mobile,Suspense|Terror|Ação,40
+U0613,Sul,45-54,Standard,Desktop,Documentário|Suspense|Crime,33
+U0614,Sudeste,45-54,Standard,Smart TV,Ficção científica|Terror|Suspense,31
+U0615,Sudeste,45-54,Basic,Smart TV,Ação|Romance|Aventura,40
+U0616,Nordeste,18-24,Standard,Smart TV,Romance|Documentário|Crime,14
+U0617,Sudeste,35-44,Premium,Mobile,Romance|Terror|Comédia,31
+U0618,Nordeste,45-54,Premium,Mobile,Ficção científica|Crime|Aventura,10
+U0619,Sudeste,25-34,Standard,Smart TV,Drama|Romance|Crime,24
+U0620,Sudeste,18-24,Premium,Smart TV,Ficção científica|Família|Suspense,20
+U0621,Sudeste,18-24,Standard,Smart TV,Comédia|Documentário|Ficção científica,30
+U0622,Centro-Oeste,35-44,Basic,Mobile,Família|Animação|Aventura,4
+U0623,Nordeste,35-44,Standard,Smart TV,Comédia|Documentário|Animação,2
+U0624,Sul,45-54,Premium,Desktop,Documentário|Ação|Romance,2
+U0625,Sudeste,25-34,Basic,Tablet,Comédia|Ação|Documentário,13
+U0626,Centro-Oeste,35-44,Basic,Mobile,Comédia|Animação|Ficção científica,28
+U0627,Centro-Oeste,18-24,Premium,Desktop,Romance|Suspense|Ação,8
+U0628,Sudeste,55+,Standard,Tablet,Romance|Animação|Documentário,48
+U0629,Nordeste,35-44,Premium,Mobile,Suspense|Ação|Drama,20
+U0630,Centro-Oeste,35-44,Standard,Mobile,Ficção científica|Suspense|Drama,15
+U0631,Sudeste,25-34,Standard,Desktop,Terror|Aventura|Família,43
+U0632,Sudeste,18-24,Basic,Mobile,Drama|Aventura|Crime,9
+U0633,Sul,18-24,Standard,Mobile,Crime|Comédia|Drama,10
+U0634,Sudeste,45-54,Basic,Smart TV,Documentário|Aventura|Comédia,19
+U0635,Nordeste,18-24,Basic,Mobile,Família|Aventura|Drama,4
+U0636,Sul,45-54,Premium,Desktop,Ficção científica|Família|Ação,33
+U0637,Sudeste,25-34,Basic,Mobile,Comédia|Ação|Documentário,38
+U0638,Sudeste,35-44,Basic,Smart TV,Comédia|Documentário|Drama,17
+U0639,Nordeste,25-34,Basic,Mobile,Crime|Terror|Suspense,42
+U0640,Sudeste,18-24,Premium,Desktop,Romance|Crime|Ficção científica,1
+U0641,Sudeste,35-44,Premium,Mobile,Animação|Família|Ação,26
+U0642,Sudeste,25-34,Basic,Mobile,Crime|Ação|Comédia,36
+U0643,Nordeste,25-34,Standard,Smart TV,Terror|Ficção científica|Documentário,19
+U0644,Sudeste,35-44,Standard,Smart TV,Documentário|Comédia|Ação,46
+U0645,Sudeste,25-34,Standard,Desktop,Aventura|Drama|Ação,21
+U0646,Nordeste,35-44,Basic,Smart TV,Animação|Aventura|Comédia,45
+U0647,Sudeste,35-44,Basic,Desktop,Romance|Terror|Documentário,32
+U0648,Nordeste,18-24,Standard,Smart TV,Drama|Suspense|Comédia,12
+U0649,Sudeste,25-34,Basic,Tablet,Ficção científica|Crime|Documentário,40
+U0650,Nordeste,18-24,Standard,Mobile,Ficção científica|Aventura|Suspense,2
+U0651,Sudeste,18-24,Basic,Mobile,Suspense|Família|Animação,10
+U0652,Sudeste,18-24,Premium,Mobile,Terror|Ficção científica|Animação,38
+U0653,Sudeste,35-44,Standard,Mobile,Romance|Crime|Animação,44
+U0654,Centro-Oeste,18-24,Standard,Mobile,Comédia|Família|Crime,19
+U0655,Nordeste,45-54,Premium,Smart TV,Ficção científica|Drama|Crime,32
+U0656,Sudeste,35-44,Basic,Smart TV,Suspense|Ficção científica|Comédia,34
+U0657,Sudeste,18-24,Basic,Smart TV,Romance|Ação|Crime,36
+U0658,Sudeste,35-44,Standard,Mobile,Família|Suspense|Documentário,44
+U0659,Sudeste,18-24,Premium,Mobile,Animação|Aventura|Família,5
+U0660,Sudeste,18-24,Premium,Smart TV,Suspense|Família|Ação,10
+U0661,Centro-Oeste,55+,Standard,Desktop,Animação|Suspense|Ação,45
+U0662,Sudeste,25-34,Premium,Smart TV,Comédia|Família|Terror,27
+U0663,Centro-Oeste,18-24,Basic,Smart TV,Ação|Suspense|Ficção científica,26
+U0664,Sudeste,45-54,Basic,Smart TV,Romance|Ação|Suspense,20
+U0665,Nordeste,55+,Basic,Mobile,Animação|Crime|Drama,18
+U0666,Sudeste,35-44,Premium,Smart TV,Crime|Comédia|Ação,12
+U0667,Sudeste,35-44,Standard,Desktop,Documentário|Drama|Ação,20
+U0668,Nordeste,45-54,Standard,Mobile,Suspense|Aventura|Comédia,4
+U0669,Sudeste,35-44,Standard,Mobile,Terror|Romance|Ação,15
+U0670,Centro-Oeste,25-34,Basic,Smart TV,Ficção científica|Documentário|Romance,48
+U0671,Nordeste,45-54,Basic,Mobile,Ficção científica|Drama|Suspense,8
+U0672,Norte,35-44,Basic,Desktop,Animação|Ação|Suspense,36
+U0673,Nordeste,25-34,Basic,Mobile,Documentário|Terror|Suspense,2
+U0674,Sudeste,18-24,Standard,Smart TV,Família|Crime|Terror,36
+U0675,Sudeste,25-34,Basic,Smart TV,Ficção científica|Animação|Documentário,13
+U0676,Nordeste,18-24,Premium,Smart TV,Suspense|Comédia|Terror,34
+U0677,Sudeste,18-24,Premium,Smart TV,Documentário|Romance|Crime,24
+U0678,Sul,25-34,Premium,Mobile,Comédia|Suspense|Documentário,38
+U0679,Sudeste,55+,Basic,Smart TV,Ação|Comédia|Romance,33
+U0680,Nordeste,18-24,Standard,Desktop,Terror|Documentário|Crime,27
+U0681,Sudeste,25-34,Basic,Mobile,Aventura|Suspense|Comédia,36
+U0682,Sudeste,45-54,Basic,Mobile,Crime|Comédia|Ficção científica,47
+U0683,Norte,25-34,Standard,Tablet,Animação|Suspense|Comédia,29
+U0684,Nordeste,35-44,Standard,Mobile,Romance|Terror|Crime,9
+U0685,Sudeste,35-44,Standard,Smart TV,Romance|Documentário|Aventura,6
+U0686,Sudeste,35-44,Premium,Mobile,Crime|Animação|Aventura,27
+U0687,Nordeste,18-24,Basic,Mobile,Comédia|Terror|Crime,21
+U0688,Sudeste,25-34,Premium,Mobile,Ficção científica|Documentário|Comédia,30
+U0689,Sul,35-44,Basic,Desktop,Família|Romance|Ficção científica,33
+U0690,Nordeste,18-24,Premium,Mobile,Ação|Crime|Ficção científica,9
+U0691,Sudeste,25-34,Standard,Tablet,Terror|Animação|Romance,36
+U0692,Sudeste,25-34,Basic,Smart TV,Família|Animação|Suspense,48
+U0693,Sudeste,35-44,Standard,Smart TV,Comédia|Documentário|Aventura,16
+U0694,Sudeste,25-34,Basic,Smart TV,Romance|Crime|Drama,45
+U0695,Sul,35-44,Premium,Mobile,Drama|Ficção científica|Família,45
+U0696,Sudeste,35-44,Basic,Smart TV,Terror|Ficção científica|Comédia,21
+U0697,Norte,18-24,Premium,Smart TV,Romance|Crime|Família,39
+U0698,Nordeste,45-54,Basic,Tablet,Crime|Comédia|Drama,45
+U0699,Sudeste,45-54,Premium,Smart TV,Família|Ação|Romance,41
+U0700,Sul,25-34,Basic,Smart TV,Drama|Ação|Documentário,19
+U0701,Sudeste,25-34,Standard,Smart TV,Ação|Família|Romance,32
+U0702,Sudeste,25-34,Premium,Smart TV,Suspense|Romance|Aventura,29
+U0703,Sul,45-54,Basic,Smart TV,Aventura|Comédia|Ação,20
+U0704,Sudeste,25-34,Basic,Smart TV,Aventura|Terror|Crime,31
+U0705,Sudeste,25-34,Standard,Smart TV,Crime|Comédia|Documentário,45
+U0706,Sudeste,55+,Standard,Desktop,Comédia|Animação|Família,2
+U0707,Sudeste,35-44,Premium,Mobile,Aventura|Crime|Documentário,44
+U0708,Nordeste,18-24,Basic,Mobile,Crime|Drama|Documentário,18
+U0709,Norte,35-44,Premium,Mobile,Ação|Drama|Animação,40
+U0710,Nordeste,45-54,Premium,Mobile,Crime|Drama|Animação,6
+U0711,Norte,25-34,Premium,Desktop,Romance|Crime|Ficção científica,43
+U0712,Sul,35-44,Basic,Mobile,Aventura|Terror|Suspense,22
+U0713,Sudeste,35-44,Basic,Smart TV,Terror|Suspense|Aventura,44
+U0714,Centro-Oeste,25-34,Premium,Smart TV,Drama|Ficção científica|Terror,21
+U0715,Sudeste,55+,Standard,Smart TV,Família|Ficção científica|Aventura,36
+U0716,Sudeste,25-34,Standard,Desktop,Ficção científica|Aventura|Drama,29
+U0717,Norte,35-44,Premium,Mobile,Romance|Animação|Crime,10
+U0718,Nordeste,45-54,Basic,Smart TV,Ficção científica|Suspense|Documentário,12
+U0719,Centro-Oeste,18-24,Standard,Smart TV,Animação|Crime|Aventura,26
+U0720,Sudeste,18-24,Standard,Desktop,Suspense|Terror|Família,24
+U0721,Nordeste,55+,Premium,Mobile,Suspense|Ação|Aventura,30
+U0722,Sudeste,35-44,Premium,Smart TV,Crime|Drama|Animação,39
+U0723,Sudeste,25-34,Standard,Desktop,Crime|Drama|Animação,38
+U0724,Centro-Oeste,18-24,Basic,Mobile,Família|Documentário|Suspense,3
+U0725,Sudeste,18-24,Premium,Mobile,Documentário|Terror|Crime,24
+U0726,Nordeste,18-24,Premium,Mobile,Terror|Crime|Documentário,8
+U0727,Centro-Oeste,25-34,Basic,Mobile,Família|Romance|Drama,25
+U0728,Centro-Oeste,35-44,Premium,Smart TV,Ação|Comédia|Aventura,26
+U0729,Sudeste,18-24,Basic,Tablet,Suspense|Drama|Família,48
+U0730,Sudeste,35-44,Standard,Mobile,Terror|Aventura|Família,19
+U0731,Centro-Oeste,55+,Premium,Mobile,Suspense|Ação|Animação,22
+U0732,Sul,55+,Standard,Mobile,Terror|Crime|Comédia,25
+U0733,Sul,45-54,Premium,Tablet,Comédia|Animação|Aventura,7
+U0734,Sudeste,25-34,Premium,Smart TV,Comédia|Romance|Aventura,3
+U0735,Sudeste,35-44,Standard,Smart TV,Crime|Aventura|Drama,35
+U0736,Norte,25-34,Basic,Mobile,Drama|Ficção científica|Crime,15
+U0737,Sul,18-24,Premium,Smart TV,Família|Crime|Drama,18
+U0738,Nordeste,45-54,Standard,Mobile,Aventura|Crime|Família,48
+U0739,Sudeste,35-44,Standard,Mobile,Terror|Documentário|Suspense,12
+U0740,Sudeste,35-44,Standard,Smart TV,Documentário|Crime|Ficção científica,44
+U0741,Sul,25-34,Basic,Smart TV,Crime|Ação|Suspense,31
+U0742,Centro-Oeste,18-24,Basic,Mobile,Crime|Aventura|Romance,13
+U0743,Sudeste,45-54,Standard,Smart TV,Terror|Crime|Aventura,46
+U0744,Sudeste,18-24,Premium,Smart TV,Documentário|Drama|Comédia,30
+U0745,Sul,18-24,Standard,Mobile,Comédia|Animação|Crime,16
+U0746,Sudeste,35-44,Basic,Smart TV,Terror|Comédia|Drama,22
+U0747,Sudeste,35-44,Standard,Mobile,Animação|Documentário|Drama,18
+U0748,Sul,18-24,Premium,Tablet,Romance|Aventura|Comédia,41
+U0749,Sudeste,25-34,Basic,Mobile,Família|Animação|Crime,23
+U0750,Nordeste,45-54,Standard,Mobile,Terror|Romance|Aventura,2
+U0751,Sudeste,55+,Standard,Smart TV,Ficção científica|Ação|Romance,34
+U0752,Nordeste,25-34,Standard,Tablet,Animação|Ficção científica|Crime,37
+U0753,Nordeste,45-54,Standard,Desktop,Ficção científica|Aventura|Terror,20
+U0754,Nordeste,25-34,Premium,Desktop,Animação|Aventura|Terror,45
+U0755,Nordeste,35-44,Basic,Smart TV,Documentário|Comédia|Família,21
+U0756,Sul,35-44,Basic,Smart TV,Terror|Aventura|Ação,13
+U0757,Sudeste,45-54,Basic,Smart TV,Crime|Ficção científica|Drama,34
+U0758,Sudeste,45-54,Standard,Smart TV,Ficção científica|Aventura|Comédia,7
+U0759,Sudeste,25-34,Premium,Smart TV,Drama|Ação|Romance,48
+U0760,Nordeste,18-24,Standard,Desktop,Comédia|Romance|Animação,33
+U0761,Sudeste,45-54,Premium,Smart TV,Aventura|Família|Ação,16
+U0762,Sudeste,18-24,Standard,Smart TV,Romance|Ficção científica|Terror,4
+U0763,Sul,35-44,Basic,Desktop,Aventura|Animação|Suspense,29
+U0764,Nordeste,25-34,Basic,Tablet,Suspense|Família|Animação,29
+U0765,Sudeste,18-24,Standard,Smart TV,Ficção científica|Romance|Documentário,39
+U0766,Sudeste,35-44,Standard,Smart TV,Ficção científica|Aventura|Suspense,14
+U0767,Sul,25-34,Standard,Desktop,Aventura|Ação|Família,11
+U0768,Centro-Oeste,45-54,Standard,Tablet,Aventura|Terror|Suspense,20
+U0769,Nordeste,25-34,Standard,Mobile,Drama|Aventura|Crime,40
+U0770,Sudeste,18-24,Basic,Mobile,Drama|Família|Ação,44
+U0771,Nordeste,18-24,Standard,Mobile,Família|Crime|Aventura,18
+U0772,Sudeste,25-34,Standard,Mobile,Terror|Ficção científica|Ação,3
+U0773,Sudeste,35-44,Premium,Smart TV,Animação|Drama|Ação,6
+U0774,Sudeste,25-34,Basic,Mobile,Aventura|Ação|Documentário,27
+U0775,Sudeste,18-24,Premium,Desktop,Ação|Animação|Ficção científica,2
+U0776,Nordeste,55+,Basic,Mobile,Ficção científica|Animação|Suspense,35
+U0777,Sul,18-24,Basic,Smart TV,Ficção científica|Romance|Drama,2
+U0778,Nordeste,25-34,Premium,Mobile,Animação|Crime|Ação,21
+U0779,Sul,45-54,Premium,Mobile,Ficção científica|Romance|Aventura,39
+U0780,Sudeste,35-44,Premium,Smart TV,Ficção científica|Suspense|Aventura,23
+U0781,Sul,25-34,Basic,Smart TV,Animação|Terror|Ação,33
+U0782,Nordeste,55+,Basic,Smart TV,Ficção científica|Terror|Crime,17
+U0783,Sul,25-34,Standard,Tablet,Suspense|Animação|Drama,39
+U0784,Sudeste,18-24,Premium,Smart TV,Romance|Documentário|Aventura,21
+U0785,Sul,18-24,Standard,Desktop,Documentário|Aventura|Ficção científica,37
+U0786,Sul,55+,Basic,Mobile,Comédia|Terror|Aventura,46
+U0787,Sudeste,25-34,Standard,Desktop,Animação|Ação|Documentário,19
+U0788,Nordeste,45-54,Basic,Tablet,Animação|Drama|Suspense,12
+U0789,Sudeste,18-24,Basic,Tablet,Comédia|Família|Romance,45
+U0790,Sudeste,18-24,Standard,Desktop,Comédia|Crime|Ação,33
+U0791,Nordeste,45-54,Basic,Smart TV,Drama|Aventura|Ficção científica,43
+U0792,Nordeste,55+,Standard,Smart TV,Comédia|Ficção científica|Ação,19
+U0793,Nordeste,18-24,Standard,Smart TV,Comédia|Família|Drama,17
+U0794,Sul,18-24,Standard,Mobile,Ação|Suspense|Comédia,6
+U0795,Norte,35-44,Standard,Smart TV,Drama|Romance|Comédia,38
+U0796,Sudeste,35-44,Premium,Mobile,Drama|Documentário|Terror,41
+U0797,Sudeste,25-34,Standard,Smart TV,Drama|Suspense|Aventura,40
+U0798,Sul,25-34,Premium,Mobile,Suspense|Família|Terror,14
+U0799,Sudeste,55+,Standard,Smart TV,Animação|Romance|Aventura,24
+U0800,Sul,18-24,Standard,Smart TV,Família|Comédia|Aventura,24

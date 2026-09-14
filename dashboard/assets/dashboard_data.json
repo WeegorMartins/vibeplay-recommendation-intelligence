@@ -1,0 +1,674 @@
+{
+  "generated_at": "2026-09-14T20:06:50.879554+00:00",
+  "kpis": {
+    "users": 800,
+    "titles": 240,
+    "interactions": 36739,
+    "positive_rate": 0.8451,
+    "recall_at_10": 0.1021,
+    "coverage": 0.9708
+  },
+  "model_comparison": [
+    {
+      "model": "Popularidade",
+      "precision_at_10": 0.0388,
+      "recall_at_10": 0.0527,
+      "ndcg_at_10": 0.0493
+    },
+    {
+      "model": "Híbrido",
+      "precision_at_10": 0.0762,
+      "recall_at_10": 0.1021,
+      "ndcg_at_10": 0.1026
+    }
+  ],
+  "event_funnel": [
+    {
+      "event": "play",
+      "value": 10874
+    },
+    {
+      "event": "complete",
+      "value": 13414
+    },
+    {
+      "event": "like",
+      "value": 6759
+    },
+    {
+      "event": "skip",
+      "value": 5692
+    }
+  ],
+  "catalog_genres": [
+    {
+      "genre": "Ficção científica",
+      "titles": 47
+    },
+    {
+      "genre": "Animação",
+      "titles": 46
+    },
+    {
+      "genre": "Aventura",
+      "titles": 39
+    },
+    {
+      "genre": "Romance",
+      "titles": 37
+    },
+    {
+      "genre": "Terror",
+      "titles": 37
+    },
+    {
+      "genre": "Comédia",
+      "titles": 34
+    },
+    {
+      "genre": "Suspense",
+      "titles": 33
+    },
+    {
+      "genre": "Drama",
+      "titles": 33
+    },
+    {
+      "genre": "Família",
+      "titles": 31
+    },
+    {
+      "genre": "Ação",
+      "titles": 28
+    },
+    {
+      "genre": "Crime",
+      "titles": 28
+    },
+    {
+      "genre": "Documentário",
+      "titles": 26
+    }
+  ],
+  "regions": [
+    {
+      "region": "Centro-Oeste",
+      "interactions": 2462,
+      "users": 54,
+      "avg_watch": 0.6372
+    },
+    {
+      "region": "Nordeste",
+      "interactions": 8114,
+      "users": 174,
+      "avg_watch": 0.6364
+    },
+    {
+      "region": "Norte",
+      "interactions": 2156,
+      "users": 48,
+      "avg_watch": 0.6311
+    },
+    {
+      "region": "Sudeste",
+      "interactions": 17932,
+      "users": 389,
+      "avg_watch": 0.6358
+    },
+    {
+      "region": "Sul",
+      "interactions": 6075,
+      "users": 135,
+      "avg_watch": 0.6431
+    }
+  ],
+  "daily": [
+    {
+      "date": "2026-06-16",
+      "events": 133
+    },
+    {
+      "date": "2026-06-17",
+      "events": 155
+    },
+    {
+      "date": "2026-06-18",
+      "events": 131
+    },
+    {
+      "date": "2026-06-19",
+      "events": 118
+    },
+    {
+      "date": "2026-06-20",
+      "events": 135
+    },
+    {
+      "date": "2026-06-21",
+      "events": 155
+    },
+    {
+      "date": "2026-06-22",
+      "events": 136
+    },
+    {
+      "date": "2026-06-23",
+      "events": 141
+    },
+    {
+      "date": "2026-06-24",
+      "events": 157
+    },
+    {
+      "date": "2026-06-25",
+      "events": 160
+    },
+    {
+      "date": "2026-06-26",
+      "events": 154
+    },
+    {
+      "date": "2026-06-27",
+      "events": 139
+    },
+    {
+      "date": "2026-06-28",
+      "events": 167
+    },
+    {
+      "date": "2026-06-29",
+      "events": 165
+    },
+    {
+      "date": "2026-06-30",
+      "events": 160
+    },
+    {
+      "date": "2026-07-01",
+      "events": 174
+    },
+    {
+      "date": "2026-07-02",
+      "events": 188
+    },
+    {
+      "date": "2026-07-03",
+      "events": 156
+    },
+    {
+      "date": "2026-07-04",
+      "events": 179
+    },
+    {
+      "date": "2026-07-05",
+      "events": 175
+    },
+    {
+      "date": "2026-07-06",
+      "events": 174
+    },
+    {
+      "date": "2026-07-07",
+      "events": 190
+    },
+    {
+      "date": "2026-07-08",
+      "events": 195
+    },
+    {
+      "date": "2026-07-09",
+      "events": 197
+    },
+    {
+      "date": "2026-07-10",
+      "events": 197
+    },
+    {
+      "date": "2026-07-11",
+      "events": 246
+    },
+    {
+      "date": "2026-07-12",
+      "events": 204
+    },
+    {
+      "date": "2026-07-13",
+      "events": 243
+    },
+    {
+      "date": "2026-07-14",
+      "events": 192
+    },
+    {
+      "date": "2026-07-15",
+      "events": 224
+    },
+    {
+      "date": "2026-07-16",
+      "events": 225
+    },
+    {
+      "date": "2026-07-17",
+      "events": 247
+    },
+    {
+      "date": "2026-07-18",
+      "events": 222
+    },
+    {
+      "date": "2026-07-19",
+      "events": 232
+    },
+    {
+      "date": "2026-07-20",
+      "events": 259
+    },
+    {
+      "date": "2026-07-21",
+      "events": 229
+    },
+    {
+      "date": "2026-07-22",
+      "events": 269
+    },
+    {
+      "date": "2026-07-23",
+      "events": 273
+    },
+    {
+      "date": "2026-07-24",
+      "events": 260
+    },
+    {
+      "date": "2026-07-25",
+      "events": 277
+    },
+    {
+      "date": "2026-07-26",
+      "events": 263
+    },
+    {
+      "date": "2026-07-27",
+      "events": 287
+    },
+    {
+      "date": "2026-07-28",
+      "events": 286
+    },
+    {
+      "date": "2026-07-29",
+      "events": 279
+    },
+    {
+      "date": "2026-07-30",
+      "events": 282
+    },
+    {
+      "date": "2026-07-31",
+      "events": 298
+    },
+    {
+      "date": "2026-08-01",
+      "events": 313
+    },
+    {
+      "date": "2026-08-02",
+      "events": 338
+    },
+    {
+      "date": "2026-08-03",
+      "events": 321
+    },
+    {
+      "date": "2026-08-04",
+      "events": 328
+    },
+    {
+      "date": "2026-08-05",
+      "events": 331
+    },
+    {
+      "date": "2026-08-06",
+      "events": 351
+    },
+    {
+      "date": "2026-08-07",
+      "events": 316
+    },
+    {
+      "date": "2026-08-08",
+      "events": 348
+    },
+    {
+      "date": "2026-08-09",
+      "events": 368
+    },
+    {
+      "date": "2026-08-10",
+      "events": 363
+    },
+    {
+      "date": "2026-08-11",
+      "events": 369
+    },
+    {
+      "date": "2026-08-12",
+      "events": 363
+    },
+    {
+      "date": "2026-08-13",
+      "events": 407
+    },
+    {
+      "date": "2026-08-14",
+      "events": 420
+    },
+    {
+      "date": "2026-08-15",
+      "events": 393
+    },
+    {
+      "date": "2026-08-16",
+      "events": 429
+    },
+    {
+      "date": "2026-08-17",
+      "events": 425
+    },
+    {
+      "date": "2026-08-18",
+      "events": 442
+    },
+    {
+      "date": "2026-08-19",
+      "events": 448
+    },
+    {
+      "date": "2026-08-20",
+      "events": 440
+    },
+    {
+      "date": "2026-08-21",
+      "events": 454
+    },
+    {
+      "date": "2026-08-22",
+      "events": 460
+    },
+    {
+      "date": "2026-08-23",
+      "events": 490
+    },
+    {
+      "date": "2026-08-24",
+      "events": 478
+    },
+    {
+      "date": "2026-08-25",
+      "events": 498
+    },
+    {
+      "date": "2026-08-26",
+      "events": 552
+    },
+    {
+      "date": "2026-08-27",
+      "events": 525
+    },
+    {
+      "date": "2026-08-28",
+      "events": 550
+    },
+    {
+      "date": "2026-08-29",
+      "events": 535
+    },
+    {
+      "date": "2026-08-30",
+      "events": 556
+    },
+    {
+      "date": "2026-08-31",
+      "events": 590
+    },
+    {
+      "date": "2026-09-01",
+      "events": 617
+    },
+    {
+      "date": "2026-09-02",
+      "events": 544
+    },
+    {
+      "date": "2026-09-03",
+      "events": 544
+    },
+    {
+      "date": "2026-09-04",
+      "events": 609
+    },
+    {
+      "date": "2026-09-05",
+      "events": 616
+    },
+    {
+      "date": "2026-09-06",
+      "events": 599
+    },
+    {
+      "date": "2026-09-07",
+      "events": 664
+    },
+    {
+      "date": "2026-09-08",
+      "events": 655
+    },
+    {
+      "date": "2026-09-09",
+      "events": 668
+    },
+    {
+      "date": "2026-09-10",
+      "events": 689
+    },
+    {
+      "date": "2026-09-11",
+      "events": 701
+    },
+    {
+      "date": "2026-09-12",
+      "events": 686
+    },
+    {
+      "date": "2026-09-13",
+      "events": 28
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "T0100",
+      "title": "Aventura em Cena 100",
+      "type": "Série",
+      "genres": "Aventura|Documentário|Suspense",
+      "release_year": 2016,
+      "duration_min": 45,
+      "quality_score": 8.44,
+      "maturity_rating": "16",
+      "score": 0.7776,
+      "reason": "Porque você concluiu ou curtiu títulos de Aventura."
+    },
+    {
+      "rank": 2,
+      "item_id": "T0235",
+      "title": "Ficção científica em Cena 235",
+      "type": "Filme",
+      "genres": "Ficção científica",
+      "release_year": 2024,
+      "duration_min": 129,
+      "quality_score": 6.53,
+      "maturity_rating": "10",
+      "score": 0.7451,
+      "reason": "Porque você concluiu ou curtiu títulos de Ficção científica."
+    },
+    {
+      "rank": 3,
+      "item_id": "T0171",
+      "title": "Aventura em Cena 171",
+      "type": "Filme",
+      "genres": "Aventura|Comédia",
+      "release_year": 2024,
+      "duration_min": 126,
+      "quality_score": 6.81,
+      "maturity_rating": "12",
+      "score": 0.7163,
+      "reason": "Porque você concluiu ou curtiu títulos de Aventura."
+    },
+    {
+      "rank": 4,
+      "item_id": "T0089",
+      "title": "Animação em Cena 089",
+      "type": "Filme",
+      "genres": "Animação|Aventura|Crime",
+      "release_year": 2018,
+      "duration_min": 105,
+      "quality_score": 6.26,
+      "maturity_rating": "14",
+      "score": 0.6952,
+      "reason": "Porque você concluiu ou curtiu títulos de Aventura."
+    },
+    {
+      "rank": 5,
+      "item_id": "T0116",
+      "title": "Romance em Cena 116",
+      "type": "Filme",
+      "genres": "Romance|Aventura",
+      "release_year": 2009,
+      "duration_min": 151,
+      "quality_score": 8.31,
+      "maturity_rating": "12",
+      "score": 0.7064,
+      "reason": "Porque você concluiu ou curtiu títulos de Aventura."
+    },
+    {
+      "rank": 6,
+      "item_id": "T0222",
+      "title": "Ficção científica em Cena 222",
+      "type": "Série",
+      "genres": "Ficção científica|Romance",
+      "release_year": 2019,
+      "duration_min": 51,
+      "quality_score": 7.71,
+      "maturity_rating": "10",
+      "score": 0.7389,
+      "reason": "Porque você concluiu ou curtiu títulos de Ficção científica."
+    },
+    {
+      "rank": 7,
+      "item_id": "T0055",
+      "title": "Ficção científica em Cena 055",
+      "type": "Série",
+      "genres": "Ficção científica",
+      "release_year": 2010,
+      "duration_min": 47,
+      "quality_score": 6.65,
+      "maturity_rating": "16",
+      "score": 0.7508,
+      "reason": "Porque você concluiu ou curtiu títulos de Ficção científica."
+    },
+    {
+      "rank": 8,
+      "item_id": "T0174",
+      "title": "Terror em Cena 174",
+      "type": "Filme",
+      "genres": "Terror",
+      "release_year": 2015,
+      "duration_min": 138,
+      "quality_score": 7.25,
+      "maturity_rating": "16",
+      "score": 0.5566,
+      "reason": "Porque você concluiu ou curtiu títulos de Terror."
+    },
+    {
+      "rank": 9,
+      "item_id": "T0001",
+      "title": "Aventura em Cena 001",
+      "type": "Série",
+      "genres": "Aventura|Família",
+      "release_year": 2013,
+      "duration_min": 52,
+      "quality_score": 8.7,
+      "maturity_rating": "18",
+      "score": 0.6252,
+      "reason": "Porque você concluiu ou curtiu títulos de Aventura."
+    },
+    {
+      "rank": 10,
+      "item_id": "T0108",
+      "title": "Suspense em Cena 108",
+      "type": "Série",
+      "genres": "Suspense|Terror",
+      "release_year": 2015,
+      "duration_min": 31,
+      "quality_score": 7.33,
+      "maturity_rating": "12",
+      "score": 0.6495,
+      "reason": "Porque você concluiu ou curtiu títulos de Suspense."
+    },
+    {
+      "rank": 11,
+      "item_id": "T0185",
+      "title": "Ficção científica em Cena 185",
+      "type": "Filme",
+      "genres": "Ficção científica|Aventura",
+      "release_year": 2011,
+      "duration_min": 113,
+      "quality_score": 7.96,
+      "maturity_rating": "Livre",
+      "score": 0.7207,
+      "reason": "Porque você concluiu ou curtiu títulos de Aventura."
+    },
+    {
+      "rank": 12,
+      "item_id": "T0218",
+      "title": "Aventura em Cena 218",
+      "type": "Filme",
+      "genres": "Aventura",
+      "release_year": 2001,
+      "duration_min": 85,
+      "quality_score": 5.88,
+      "maturity_rating": "12",
+      "score": 0.6876,
+      "reason": "Porque você concluiu ou curtiu títulos de Aventura."
+    }
+  ],
+  "metric_cards": {
+    "precision_at_10": 0.0762,
+    "recall_at_10": 0.1021,
+    "ndcg_at_10": 0.1026,
+    "catalog_coverage": 0.9708,
+    "genre_diversity": 0.8224,
+    "novelty": 7.945,
+    "evaluated_users": 160
+  },
+  "governance": [
+    {
+      "check": "Cobertura do catálogo",
+      "status": "Saudável",
+      "value": 0.9708,
+      "threshold": 0.35
+    },
+    {
+      "check": "Diversidade de gênero",
+      "status": "Saudável",
+      "value": 0.8224,
+      "threshold": 0.3
+    },
+    {
+      "check": "Taxa de feedback positivo",
+      "status": "Saudável",
+      "value": 0.8451,
+      "threshold": 0.7
+    }
+  ]
+}

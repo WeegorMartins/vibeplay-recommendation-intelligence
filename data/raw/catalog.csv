@@ -1,0 +1,241 @@
+item_id,title,type,genres,release_year,duration_min,quality_score,maturity_rating
+T0001,Aventura em Cena 001,Série,Aventura|Família,2013,52,8.7,18
+T0002,Animação em Cena 002,Série,Animação,2012,29,6.86,12
+T0003,Suspense em Cena 003,Filme,Suspense|Família,2007,133,6.08,Livre
+T0004,Ficção científica em Cena 004,Série,Ficção científica|Terror,2007,33,7.28,10
+T0005,Ficção científica em Cena 005,Série,Ficção científica,2025,42,7.32,Livre
+T0006,Crime em Cena 006,Filme,Crime|Animação,2015,134,8.46,10
+T0007,Aventura em Cena 007,Filme,Aventura|Terror,2014,119,7.94,14
+T0008,Terror em Cena 008,Filme,Terror|Animação,2022,107,7.46,16
+T0009,Comédia em Cena 009,Série,Comédia|Ficção científica,2018,24,8.56,14
+T0010,Aventura em Cena 010,Filme,Aventura|Comédia|Terror,2025,106,5.91,14
+T0011,Romance em Cena 011,Série,Romance|Ficção científica,2023,53,6.46,10
+T0012,Família em Cena 012,Filme,Família,2016,113,6.17,16
+T0013,Terror em Cena 013,Série,Terror|Aventura,2014,36,6.71,14
+T0014,Animação em Cena 014,Filme,Animação,2026,118,5.72,16
+T0015,Terror em Cena 015,Série,Terror|Crime|Documentário,2021,57,7.74,18
+T0016,Animação em Cena 016,Filme,Animação|Romance|Suspense,2026,148,6.88,12
+T0017,Romance em Cena 017,Filme,Romance,2005,123,5.63,Livre
+T0018,Aventura em Cena 018,Série,Aventura|Suspense,2024,56,6.08,12
+T0019,Crime em Cena 019,Série,Crime,2020,45,7.41,12
+T0020,Ficção científica em Cena 020,Série,Ficção científica|Suspense,2006,26,7.94,18
+T0021,Romance em Cena 021,Filme,Romance|Família|Ficção científica,2019,97,9.1,12
+T0022,Documentário em Cena 022,Filme,Documentário,2021,99,9.7,16
+T0023,Comédia em Cena 023,Filme,Comédia,2000,109,7.51,14
+T0024,Família em Cena 024,Filme,Família,2016,97,6.11,10
+T0025,Animação em Cena 025,Série,Animação,2023,53,4.97,12
+T0026,Suspense em Cena 026,Série,Suspense|Comédia,2011,29,7.37,14
+T0027,Documentário em Cena 027,Série,Documentário,2016,42,6.29,14
+T0028,Animação em Cena 028,Série,Animação|Comédia|Suspense,2015,32,6.68,12
+T0029,Romance em Cena 029,Série,Romance|Aventura,2012,44,6.49,12
+T0030,Ficção científica em Cena 030,Série,Ficção científica|Família|Drama,2025,33,6.96,16
+T0031,Ficção científica em Cena 031,Filme,Ficção científica,2023,107,8.17,10
+T0032,Comédia em Cena 032,Filme,Comédia|Drama,2005,135,7.26,18
+T0033,Aventura em Cena 033,Série,Aventura|Romance,2026,60,6.94,10
+T0034,Romance em Cena 034,Série,Romance,2024,54,6.06,Livre
+T0035,Crime em Cena 035,Filme,Crime|Comédia,2011,117,5.43,14
+T0036,Ação em Cena 036,Filme,Ação|Drama|Terror,2024,90,6.61,14
+T0037,Crime em Cena 037,Série,Crime,2005,31,7.05,14
+T0038,Animação em Cena 038,Filme,Animação,2026,112,8.87,12
+T0039,Drama em Cena 039,Filme,Drama,2020,120,7.23,18
+T0040,Suspense em Cena 040,Série,Suspense|Ficção científica,2020,60,8.08,14
+T0041,Aventura em Cena 041,Série,Aventura|Animação,2004,57,6.6,14
+T0042,Animação em Cena 042,Filme,Animação|Crime|Romance,2025,142,5.92,12
+T0043,Terror em Cena 043,Série,Terror|Ação|Ficção científica,2001,38,6.13,Livre
+T0044,Documentário em Cena 044,Filme,Documentário,2010,105,6.37,14
+T0045,Ação em Cena 045,Série,Ação|Comédia,2006,27,9.23,12
+T0046,Família em Cena 046,Filme,Família,2022,78,6.28,14
+T0047,Ficção científica em Cena 047,Filme,Ficção científica|Animação,2008,94,7.94,Livre
+T0048,Crime em Cena 048,Filme,Crime|Romance,2025,123,6.2,18
+T0049,Terror em Cena 049,Filme,Terror,2020,145,8.03,14
+T0050,Animação em Cena 050,Série,Animação,2002,33,7.48,16
+T0051,Animação em Cena 051,Filme,Animação,2000,127,6.94,14
+T0052,Comédia em Cena 052,Filme,Comédia|Ficção científica,2002,137,7.06,Livre
+T0053,Documentário em Cena 053,Filme,Documentário|Suspense,2019,91,6.45,16
+T0054,Ficção científica em Cena 054,Série,Ficção científica,2023,51,7.55,14
+T0055,Ficção científica em Cena 055,Série,Ficção científica,2010,47,6.65,16
+T0056,Ação em Cena 056,Série,Ação,2024,58,5.87,12
+T0057,Romance em Cena 057,Filme,Romance|Ação,2003,113,5.82,14
+T0058,Aventura em Cena 058,Filme,Aventura,2023,141,7.27,16
+T0059,Terror em Cena 059,Filme,Terror|Documentário|Suspense,2025,114,8.68,14
+T0060,Terror em Cena 060,Filme,Terror|Aventura|Suspense,2022,141,7.26,12
+T0061,Família em Cena 061,Série,Família|Comédia,2021,39,6.98,14
+T0062,Terror em Cena 062,Série,Terror,2024,28,7.39,14
+T0063,Documentário em Cena 063,Filme,Documentário,2002,82,8.41,18
+T0064,Família em Cena 064,Filme,Família|Comédia,2008,103,7.32,12
+T0065,Documentário em Cena 065,Série,Documentário|Comédia,2006,54,6.69,12
+T0066,Drama em Cena 066,Filme,Drama|Suspense,2017,114,8.21,16
+T0067,Crime em Cena 067,Filme,Crime,2022,122,7.53,14
+T0068,Documentário em Cena 068,Filme,Documentário|Crime,2020,113,8.64,16
+T0069,Ação em Cena 069,Filme,Ação,2024,92,7.28,14
+T0070,Ficção científica em Cena 070,Filme,Ficção científica,2007,100,5.88,12
+T0071,Animação em Cena 071,Filme,Animação,2022,129,5.73,16
+T0072,Comédia em Cena 072,Filme,Comédia|Crime|Ação,2008,80,8.75,10
+T0073,Ficção científica em Cena 073,Série,Ficção científica|Animação,2011,57,8.82,10
+T0074,Aventura em Cena 074,Filme,Aventura|Ficção científica,2021,145,6.92,14
+T0075,Terror em Cena 075,Filme,Terror|Ficção científica,2026,85,6.72,16
+T0076,Ficção científica em Cena 076,Série,Ficção científica|Drama,2019,59,8.56,16
+T0077,Drama em Cena 077,Série,Drama,2003,43,5.99,12
+T0078,Comédia em Cena 078,Filme,Comédia|Ação|Aventura,2019,85,6.21,10
+T0079,Romance em Cena 079,Filme,Romance|Família|Aventura,2002,110,7.74,18
+T0080,Terror em Cena 080,Série,Terror,2024,40,6.71,10
+T0081,Família em Cena 081,Filme,Família,2021,91,7.09,10
+T0082,Ficção científica em Cena 082,Filme,Ficção científica,2007,83,6.94,12
+T0083,Aventura em Cena 083,Série,Aventura,2004,30,7.44,14
+T0084,Animação em Cena 084,Filme,Animação|Ação|Ficção científica,2008,127,8.51,16
+T0085,Suspense em Cena 085,Série,Suspense|Ação,2026,49,7.19,16
+T0086,Terror em Cena 086,Filme,Terror,2016,91,7.74,14
+T0087,Aventura em Cena 087,Série,Aventura|Romance,2023,38,5.05,10
+T0088,Drama em Cena 088,Filme,Drama,2020,104,7.05,12
+T0089,Animação em Cena 089,Filme,Animação|Aventura|Crime,2018,105,6.26,14
+T0090,Animação em Cena 090,Filme,Animação|Terror,2006,96,5.88,10
+T0091,Ficção científica em Cena 091,Filme,Ficção científica,2026,82,6.22,12
+T0092,Animação em Cena 092,Série,Animação|Romance|Drama,2012,46,6.77,12
+T0093,Crime em Cena 093,Filme,Crime,2018,105,8.02,10
+T0094,Documentário em Cena 094,Filme,Documentário|Ação,2021,104,5.77,14
+T0095,Crime em Cena 095,Série,Crime|Ação,2020,43,7.13,14
+T0096,Drama em Cena 096,Série,Drama|Animação,2025,59,6.62,Livre
+T0097,Comédia em Cena 097,Filme,Comédia,2007,124,6.77,14
+T0098,Terror em Cena 098,Filme,Terror|Documentário|Ficção científica,2017,109,8.1,16
+T0099,Suspense em Cena 099,Série,Suspense,2014,29,7.64,16
+T0100,Aventura em Cena 100,Série,Aventura|Documentário|Suspense,2016,45,8.44,16
+T0101,Animação em Cena 101,Série,Animação,2005,31,6.95,14
+T0102,Comédia em Cena 102,Série,Comédia|Animação,2006,42,6.4,16
+T0103,Animação em Cena 103,Série,Animação,2011,37,6.88,12
+T0104,Ação em Cena 104,Filme,Ação|Comédia,2012,131,7.34,12
+T0105,Animação em Cena 105,Filme,Animação,2015,85,7.28,10
+T0106,Animação em Cena 106,Filme,Animação|Drama|Romance,2019,135,6.02,14
+T0107,Animação em Cena 107,Série,Animação|Suspense,2020,59,7.19,12
+T0108,Suspense em Cena 108,Série,Suspense|Terror,2015,31,7.33,12
+T0109,Ficção científica em Cena 109,Filme,Ficção científica|Suspense,2014,86,9.62,16
+T0110,Terror em Cena 110,Filme,Terror|Ficção científica|Drama,2009,112,8.98,12
+T0111,Drama em Cena 111,Filme,Drama|Aventura,2019,125,6.25,12
+T0112,Animação em Cena 112,Série,Animação|Romance,2012,39,6.81,10
+T0113,Romance em Cena 113,Filme,Romance|Ação,2002,87,5.64,12
+T0114,Ficção científica em Cena 114,Filme,Ficção científica|Animação|Terror,2015,93,6.51,12
+T0115,Romance em Cena 115,Filme,Romance|Família,2016,142,7.42,12
+T0116,Romance em Cena 116,Filme,Romance|Aventura,2009,151,8.31,12
+T0117,Ação em Cena 117,Filme,Ação|Terror|Documentário,2018,135,6.37,16
+T0118,Aventura em Cena 118,Filme,Aventura|Ficção científica,2018,85,6.45,18
+T0119,Comédia em Cena 119,Filme,Comédia|Ficção científica,2021,140,4.95,14
+T0120,Aventura em Cena 120,Filme,Aventura|Suspense,2020,130,6.94,14
+T0121,Ficção científica em Cena 121,Filme,Ficção científica|Drama|Romance,2020,117,6.04,16
+T0122,Terror em Cena 122,Filme,Terror|Documentário,2012,88,6.57,18
+T0123,Suspense em Cena 123,Filme,Suspense,2023,153,6.22,14
+T0124,Ficção científica em Cena 124,Série,Ficção científica|Drama,2018,29,7.01,16
+T0125,Crime em Cena 125,Filme,Crime,2015,81,5.34,16
+T0126,Romance em Cena 126,Filme,Romance,2019,93,5.63,16
+T0127,Ação em Cena 127,Filme,Ação|Comédia,2013,108,9.23,14
+T0128,Animação em Cena 128,Filme,Animação|Suspense,2017,82,5.81,Livre
+T0129,Romance em Cena 129,Filme,Romance,2022,102,6.0,Livre
+T0130,Suspense em Cena 130,Filme,Suspense,2025,113,8.94,14
+T0131,Romance em Cena 131,Série,Romance,2025,61,9.7,14
+T0132,Romance em Cena 132,Filme,Romance|Família,2017,84,5.93,12
+T0133,Aventura em Cena 133,Filme,Aventura,2017,121,6.73,14
+T0134,Romance em Cena 134,Filme,Romance|Crime,2023,147,7.44,14
+T0135,Animação em Cena 135,Filme,Animação,2012,139,8.83,16
+T0136,Drama em Cena 136,Filme,Drama,2024,148,6.11,Livre
+T0137,Suspense em Cena 137,Série,Suspense,2017,50,6.85,12
+T0138,Ação em Cena 138,Série,Ação,2005,44,7.88,16
+T0139,Documentário em Cena 139,Filme,Documentário|Família,2003,152,7.53,16
+T0140,Ficção científica em Cena 140,Filme,Ficção científica,2024,102,6.72,18
+T0141,Família em Cena 141,Filme,Família|Crime,2003,115,6.97,16
+T0142,Comédia em Cena 142,Filme,Comédia|Animação,2011,118,5.73,16
+T0143,Drama em Cena 143,Série,Drama|Família,2012,25,6.86,12
+T0144,Documentário em Cena 144,Filme,Documentário,2007,100,6.83,12
+T0145,Família em Cena 145,Filme,Família|Ação,2012,151,7.33,12
+T0146,Crime em Cena 146,Série,Crime|Ficção científica|Drama,2022,52,6.54,14
+T0147,Ação em Cena 147,Filme,Ação|Romance,2000,106,7.57,18
+T0148,Comédia em Cena 148,Filme,Comédia,2023,139,8.11,12
+T0149,Animação em Cena 149,Série,Animação|Ação,2024,28,7.26,14
+T0150,Ação em Cena 150,Filme,Ação|Documentário,2014,138,7.45,12
+T0151,Crime em Cena 151,Filme,Crime|Documentário|Animação,2007,122,7.15,10
+T0152,Drama em Cena 152,Filme,Drama,2019,113,7.1,10
+T0153,Família em Cena 153,Série,Família|Suspense,2005,55,6.38,Livre
+T0154,Drama em Cena 154,Filme,Drama|Romance,2013,127,7.42,18
+T0155,Ficção científica em Cena 155,Filme,Ficção científica,2026,102,7.0,12
+T0156,Suspense em Cena 156,Filme,Suspense,2026,94,9.19,16
+T0157,Aventura em Cena 157,Filme,Aventura|Família|Crime,2022,92,8.67,14
+T0158,Romance em Cena 158,Série,Romance|Animação|Ação,2012,26,7.49,10
+T0159,Romance em Cena 159,Filme,Romance|Comédia,2021,85,6.34,10
+T0160,Animação em Cena 160,Filme,Animação|Terror,2021,138,5.99,16
+T0161,Família em Cena 161,Filme,Família|Suspense,2014,143,8.29,12
+T0162,Suspense em Cena 162,Série,Suspense|Comédia,2020,50,7.36,16
+T0163,Documentário em Cena 163,Filme,Documentário,2000,122,7.58,10
+T0164,Documentário em Cena 164,Série,Documentário,2009,54,5.36,14
+T0165,Ficção científica em Cena 165,Série,Ficção científica|Drama,2017,40,8.03,16
+T0166,Animação em Cena 166,Filme,Animação,2007,128,7.55,12
+T0167,Drama em Cena 167,Série,Drama|Ficção científica,2007,26,5.99,12
+T0168,Comédia em Cena 168,Série,Comédia|Suspense,2024,30,6.63,18
+T0169,Documentário em Cena 169,Filme,Documentário,2026,110,7.36,12
+T0170,Ação em Cena 170,Série,Ação,2018,34,7.15,12
+T0171,Aventura em Cena 171,Filme,Aventura|Comédia,2024,126,6.81,12
+T0172,Aventura em Cena 172,Filme,Aventura|Drama,2026,106,7.0,12
+T0173,Animação em Cena 173,Série,Animação|Aventura,2006,31,6.85,16
+T0174,Terror em Cena 174,Filme,Terror,2015,138,7.25,16
+T0175,Terror em Cena 175,Série,Terror,2014,34,8.57,12
+T0176,Ficção científica em Cena 176,Filme,Ficção científica|Comédia|Família,2004,133,4.53,16
+T0177,Terror em Cena 177,Série,Terror|Aventura,2022,60,6.86,12
+T0178,Aventura em Cena 178,Filme,Aventura|Crime,2015,136,7.28,Livre
+T0179,Crime em Cena 179,Filme,Crime|Romance|Animação,2016,103,7.4,14
+T0180,Romance em Cena 180,Filme,Romance,2007,98,6.73,18
+T0181,Família em Cena 181,Filme,Família|Comédia,2008,112,5.34,Livre
+T0182,Aventura em Cena 182,Filme,Aventura|Drama|Família,2025,151,7.43,10
+T0183,Ficção científica em Cena 183,Filme,Ficção científica,2002,121,8.83,14
+T0184,Terror em Cena 184,Filme,Terror|Romance,2009,107,5.57,16
+T0185,Ficção científica em Cena 185,Filme,Ficção científica|Aventura,2011,113,7.96,Livre
+T0186,Ficção científica em Cena 186,Filme,Ficção científica|Comédia,2016,100,6.77,12
+T0187,Aventura em Cena 187,Série,Aventura|Romance,2019,61,7.04,16
+T0188,Documentário em Cena 188,Série,Documentário|Ação,2017,47,6.05,12
+T0189,Comédia em Cena 189,Série,Comédia|Crime|Ação,2004,56,6.77,10
+T0190,Drama em Cena 190,Filme,Drama,2010,106,8.4,10
+T0191,Terror em Cena 191,Série,Terror|Aventura,2024,59,7.68,12
+T0192,Suspense em Cena 192,Filme,Suspense,2020,151,8.83,14
+T0193,Suspense em Cena 193,Filme,Suspense|Família,2020,104,8.28,16
+T0194,Documentário em Cena 194,Filme,Documentário|Comédia,2020,83,7.54,14
+T0195,Família em Cena 195,Série,Família|Ação,2022,54,8.84,14
+T0196,Aventura em Cena 196,Filme,Aventura,2003,118,7.54,18
+T0197,Documentário em Cena 197,Filme,Documentário|Terror,2013,85,7.93,12
+T0198,Aventura em Cena 198,Série,Aventura|Crime,2018,38,6.8,12
+T0199,Documentário em Cena 199,Filme,Documentário,2013,90,7.17,16
+T0200,Família em Cena 200,Filme,Família,2024,116,6.4,12
+T0201,Documentário em Cena 201,Série,Documentário|Terror,2016,58,8.09,16
+T0202,Crime em Cena 202,Filme,Crime|Terror,2022,151,5.92,16
+T0203,Ficção científica em Cena 203,Filme,Ficção científica|Comédia|Aventura,2024,107,7.88,Livre
+T0204,Terror em Cena 204,Série,Terror,2017,40,6.91,14
+T0205,Ficção científica em Cena 205,Série,Ficção científica,2025,50,8.27,10
+T0206,Drama em Cena 206,Filme,Drama|Crime,2019,137,7.85,10
+T0207,Animação em Cena 207,Série,Animação,2024,42,8.92,14
+T0208,Família em Cena 208,Filme,Família,2013,135,7.83,12
+T0209,Drama em Cena 209,Filme,Drama,2017,135,5.53,16
+T0210,Animação em Cena 210,Filme,Animação|Crime,2017,118,7.03,16
+T0211,Drama em Cena 211,Filme,Drama,2005,97,5.93,16
+T0212,Terror em Cena 212,Série,Terror|Animação,2014,34,6.58,12
+T0213,Animação em Cena 213,Série,Animação|Drama,2025,37,8.61,12
+T0214,Ficção científica em Cena 214,Filme,Ficção científica,2020,151,7.74,12
+T0215,Terror em Cena 215,Filme,Terror|Aventura,2008,148,6.4,10
+T0216,Drama em Cena 216,Filme,Drama|Suspense,2013,91,6.09,18
+T0217,Ação em Cena 217,Série,Ação|Romance,2008,27,7.13,12
+T0218,Aventura em Cena 218,Filme,Aventura,2001,85,5.88,12
+T0219,Ficção científica em Cena 219,Série,Ficção científica,2025,26,6.43,16
+T0220,Crime em Cena 220,Filme,Crime|Romance,2015,153,7.41,12
+T0221,Aventura em Cena 221,Filme,Aventura|Drama,2012,81,8.26,Livre
+T0222,Ficção científica em Cena 222,Série,Ficção científica|Romance,2019,51,7.71,10
+T0223,Terror em Cena 223,Série,Terror|Animação,2000,40,4.81,14
+T0224,Comédia em Cena 224,Filme,Comédia,2011,142,7.4,16
+T0225,Terror em Cena 225,Série,Terror,2021,59,7.17,12
+T0226,Drama em Cena 226,Série,Drama,2020,55,7.51,16
+T0227,Animação em Cena 227,Filme,Animação|Família,2026,148,8.72,16
+T0228,Romance em Cena 228,Filme,Romance,2019,148,5.04,16
+T0229,Romance em Cena 229,Filme,Romance,2016,122,6.51,12
+T0230,Comédia em Cena 230,Série,Comédia,2022,35,7.69,Livre
+T0231,Ficção científica em Cena 231,Filme,Ficção científica|Aventura,2025,78,5.52,16
+T0232,Crime em Cena 232,Filme,Crime,2021,124,8.58,12
+T0233,Ação em Cena 233,Filme,Ação|Animação|Comédia,2026,80,7.47,14
+T0234,Animação em Cena 234,Série,Animação|Suspense,2023,34,7.95,16
+T0235,Ficção científica em Cena 235,Filme,Ficção científica,2024,129,6.53,10
+T0236,Terror em Cena 236,Série,Terror|Família,2005,55,7.91,16
+T0237,Suspense em Cena 237,Filme,Suspense|Família,2022,120,8.17,18
+T0238,Ficção científica em Cena 238,Série,Ficção científica,2015,38,7.33,16
+T0239,Drama em Cena 239,Filme,Drama,2018,80,7.33,14
+T0240,Suspense em Cena 240,Filme,Suspense|Família,2020,103,7.37,16

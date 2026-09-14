@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="VibePlay — dashboard demonstrativo de recomendação híbrida e responsável." />
+  <title>VibePlay · Recommendation Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="#top" aria-label="VibePlay início">
+        <span class="brand-mark"><span></span><span></span><span></span></span>
+        <span>Vibe<span>Play</span></span>
+      </a>
+      <nav aria-label="Navegação principal">
+        <a class="nav-item active" href="#overview"><span>01</span>Visão executiva</a>
+        <a class="nav-item" href="#model"><span>02</span>Qualidade do modelo</a>
+        <a class="nav-item" href="#explorer"><span>03</span>Recomendações</a>
+        <a class="nav-item" href="#governance"><span>04</span>Governança</a>
+      </nav>
+      <div class="sidebar-card">
+        <span class="eyebrow">STATUS DO PIPELINE</span>
+        <div class="status-line"><i></i> Operacional</div>
+        <p>Última atualização</p>
+        <strong id="updatedAt">carregando…</strong>
+      </div>
+      <p class="demo-note">Case demonstrativo<br>Dados 100% sintéticos</p>
+    </aside>
+
+    <main id="top">
+      <header class="topbar">
+        <div>
+          <span class="eyebrow">RECOMMENDATION INTELLIGENCE</span>
+          <h1>Decisões melhores, uma descoberta por vez.</h1>
+        </div>
+        <div class="top-actions">
+          <button class="icon-button" id="themeButton" aria-label="Alternar tema">◐</button>
+          <span class="environment"><i></i> MODEL v1.0</span>
+        </div>
+      </header>
+
+      <section id="overview" class="section-block">
+        <div class="section-heading">
+          <div><span class="eyebrow">PANORAMA</span><h2>Visão executiva</h2></div>
+          <p>Um retrato simples da saúde do produto e do motor de recomendação.</p>
+        </div>
+        <div class="kpi-grid">
+          <article class="kpi-card accent"><div><span>USUÁRIOS</span><b id="kpiUsers">—</b></div><div class="kpi-icon">↗</div><small>base demonstrativa ativa</small></article>
+          <article class="kpi-card"><div><span>INTERAÇÕES</span><b id="kpiInteractions">—</b></div><div class="kpi-icon">◎</div><small>eventos comportamentais</small></article>
+          <article class="kpi-card"><div><span>RECALL@10</span><b id="kpiRecall">—</b></div><div class="kpi-icon">◆</div><small>relevantes recuperados</small></article>
+          <article class="kpi-card"><div><span>COBERTURA</span><b id="kpiCoverage">—</b></div><div class="kpi-icon">◫</div><small>catálogo alcançado</small></article>
+        </div>
+        <div class="grid two-thirds">
+          <article class="panel"><div class="panel-title"><div><span class="eyebrow">ENGAJAMENTO</span><h3>Interações nos últimos 90 dias</h3></div><span class="chip">Diário</span></div><div id="dailyChart" class="chart"></div></article>
+          <article class="panel"><div class="panel-title"><div><span class="eyebrow">COMPORTAMENTO</span><h3>Mix de eventos</h3></div></div><div id="funnelChart" class="chart"></div></article>
+        </div>
+      </section>
+
+      <section id="model" class="section-block">
+        <div class="section-heading">
+          <div><span class="eyebrow">MODELO</span><h2>Qualidade e trade-offs</h2></div>
+          <p>Performance offline deve orientar a hipótese; quem comprova impacto é o teste online.</p>
+        </div>
+        <div class="grid half">
+          <article class="panel"><div class="panel-title"><div><span class="eyebrow">BENCHMARK</span><h3>Híbrido × popularidade</h3></div></div><div id="modelChart" class="chart large"></div></article>
+          <article class="panel metric-panel">
+            <div class="panel-title"><div><span class="eyebrow">LEITURA CORRETA</span><h3>O que os números dizem</h3></div></div>
+            <div class="metric-row"><div><span>Precisão @10</span><b id="metricPrecision">—</b></div><p>Entre as 10 sugestões, quantas eram relevantes.</p></div>
+            <div class="metric-row"><div><span>NDCG @10</span><b id="metricNdcg">—</b></div><p>Premia acertos posicionados no topo da lista.</p></div>
+            <div class="metric-row"><div><span>Novidade</span><b id="metricNovelty">—</b></div><p>Indica exposição a títulos menos óbvios.</p></div>
+            <div class="insight-callout"><strong>Decisão recomendada</strong><p>Avançar para A/B test com horas assistidas como métrica primária e skips, latência e concentração como guardrails.</p></div>
+          </article>
+        </div>
+        <article class="panel"><div class="panel-title"><div><span class="eyebrow">CATÁLOGO</span><h3>Oferta por gênero</h3></div><span class="chip">Multi-gênero</span></div><div id="genreChart" class="chart medium"></div></article>
+      </section>
+
+      <section id="explorer" class="section-block">
+        <div class="section-heading">
+          <div><span class="eyebrow">EXPLICABILIDADE</span><h2>Recomendações para U0018</h2></div>
+          <p>Além do score, cada título explica de forma legível por que apareceu.</p>
+        </div>
+        <div class="filterbar">
+          <label>Buscar título<input id="titleSearch" type="search" placeholder="Ex.: ação, drama…" /></label>
+          <label>Tipo<select id="typeFilter"><option value="Todos">Todos</option><option>Filme</option><option>Série</option></select></label>
+          <label>Ordenar<select id="sortFilter"><option value="rank">Ranking</option><option value="score">Maior score</option><option value="year">Mais recente</option></select></label>
+        </div>
+        <div id="recommendationGrid" class="recommendation-grid"></div>
+      </section>
+
+      <section id="governance" class="section-block">
+        <div class="section-heading">
+          <div><span class="eyebrow">RESPONSABILIDADE</span><h2>Governança do recomendador</h2></div>
+          <p>Monitoramento técnico e de produto antes de automatizar qualquer promoção.</p>
+        </div>
+        <div id="governanceGrid" class="governance-grid"></div>
+        <article class="panel regions-panel"><div class="panel-title"><div><span class="eyebrow">EQUIDADE DE EXPERIÊNCIA</span><h3>Consumo por região</h3></div></div><div id="regionTable"></div></article>
+      </section>
+
+      <footer><span>VibePlay Recommendation Intelligence</span><span>Dataset sintético · sem dados pessoais reais</span></footer>
+    </main>
+  </div>
+
+  <button class="chat-launcher" id="chatLauncher" aria-label="Abrir copiloto"><span>✦</span> Pergunte aos dados</button>
+  <aside class="chat-drawer" id="chatDrawer" aria-label="Copiloto analítico">
+    <header><div><span class="eyebrow">COPILOTO ANALÍTICO</span><h3>Oi, eu sou a Vivi.</h3></div><button id="chatClose" aria-label="Fechar">×</button></header>
+    <div class="chat-body" id="chatBody">
+      <div class="message bot">Posso explicar o desempenho do modelo sem esconder as limitações. O que você quer entender?</div>
+      <div class="suggestions"><button>Como tratar usuário novo?</button><button>O Recall@10 está bom?</button><button>Como validar no negócio?</button></div>
+    </div>
+    <form id="chatForm"><input id="chatInput" maxlength="300" placeholder="Pergunte sobre métricas, cold start…" autocomplete="off"/><button aria-label="Enviar">↑</button></form>
+  </aside>
+  <script src="app.js"></script>
+</body>
+</html>
+

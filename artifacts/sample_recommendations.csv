@@ -1,0 +1,13 @@
+rank,item_id,title,type,genres,release_year,duration_min,quality_score,maturity_rating,score,reason
+1,T0100,Aventura em Cena 100,Série,Aventura|Documentário|Suspense,2016,45,8.44,16,0.7776,Porque você concluiu ou curtiu títulos de Aventura.
+2,T0235,Ficção científica em Cena 235,Filme,Ficção científica,2024,129,6.53,10,0.7451,Porque você concluiu ou curtiu títulos de Ficção científica.
+3,T0171,Aventura em Cena 171,Filme,Aventura|Comédia,2024,126,6.81,12,0.7163,Porque você concluiu ou curtiu títulos de Aventura.
+4,T0089,Animação em Cena 089,Filme,Animação|Aventura|Crime,2018,105,6.26,14,0.6952,Porque você concluiu ou curtiu títulos de Aventura.
+5,T0116,Romance em Cena 116,Filme,Romance|Aventura,2009,151,8.31,12,0.7064,Porque você concluiu ou curtiu títulos de Aventura.
+6,T0222,Ficção científica em Cena 222,Série,Ficção científica|Romance,2019,51,7.71,10,0.7389,Porque você concluiu ou curtiu títulos de Ficção científica.
+7,T0055,Ficção científica em Cena 055,Série,Ficção científica,2010,47,6.65,16,0.7508,Porque você concluiu ou curtiu títulos de Ficção científica.
+8,T0174,Terror em Cena 174,Filme,Terror,2015,138,7.25,16,0.5566,Porque você concluiu ou curtiu títulos de Terror.
+9,T0001,Aventura em Cena 001,Série,Aventura|Família,2013,52,8.7,18,0.6252,Porque você concluiu ou curtiu títulos de Aventura.
+10,T0108,Suspense em Cena 108,Série,Suspense|Terror,2015,31,7.33,12,0.6495,Porque você concluiu ou curtiu títulos de Suspense.
+11,T0185,Ficção científica em Cena 185,Filme,Ficção científica|Aventura,2011,113,7.96,Livre,0.7207,Porque você concluiu ou curtiu títulos de Aventura.
+12,T0218,Aventura em Cena 218,Filme,Aventura,2001,85,5.88,12,0.6876,Porque você concluiu ou curtiu títulos de Aventura.
